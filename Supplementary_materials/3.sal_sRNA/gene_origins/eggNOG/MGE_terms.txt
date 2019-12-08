@@ -1,0 +1,55 @@
+CcdB-like toxin protein
+cell killing protein encoded within cryptic prophage
+Transposase
+PipA protein
+anti-termination protein
+transposase
+Integrase
+Inherit from COG: Antirepressor
+Inherit from COG: transposase
+Integrase catalytic subunit
+IS630 family transposase
+Major tail protein
+Phage transcriptional regulator, AlpA
+Plasmid maintenance system antidote protein
+plasmid maintenance system antidote protein, xre family
+Protein of unknown function (DUF1019)
+Transposase IS116 IS110 IS902
+Transposase is3 is911
+replication protein O
+small terminase subunit
+Tail assembly protein
+tail length tape measure
+Terminase, large subunit
+bacteriophage protein
+enhancing factor (Viral)
+Antitermination protein
+Minor Tail Protein
+P2 GpU Family Protein
+phage baseplate
+phage minor tail protein L
+phage protein
+Prophage membrane protein
+Qin prophage
+CcdA protein
+Excisionase
+tail component of prophage
+tail component of prophage CP-933K
+Tail Fiber Assembly protein
+tail fiber protein
+Toxic component of a toxin-antitoxin (TA) module. A
+NinB protein
+late control
+Late control D family protein
+excisionase
+Tail fiber protein
+transcriptional activator, Ogr delta
+lambda NinG
+phage regulatory protein, rha family
+Pfam:DUF1813
+DNA-binding prophage protein
+Pfam:Transposase
+phage holin
+is1 orf2
+this blockage is overcome by subsequent expression of antitoxin HigA. Overexpression causes cleavage of a number of mRNAs in a translation-dependent fashion, suggesting this is an mRNA interferase
+

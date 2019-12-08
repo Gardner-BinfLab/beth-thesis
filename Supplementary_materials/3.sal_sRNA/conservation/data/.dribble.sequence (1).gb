@@ -1,0 +1,25 @@
+     CDS             complement(2042364..2043926)
+                     /locus_tag="STM474_2034"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tail protein"
+                     /protein_id="ADX17711.1"
+                     /translation="MHRIDTPTAQKDKFGQGKNGFTNGDPATGRRATDLNSDMWDAVQ
+                     EEVCTVIEAAGIPLSKGEHTQLHAAIGRLIDEQVKTRLEKNQNGADIPNKPLFLQNVG
+                     LGETINLAAGALQKSQNGGDIPDKKQFARTIGAVTSTTITLGESGWFKIATVVMPQAT
+                     STAVIKLYGGAGFNAGSPEQAAISELVLRAGNGSPVGITATLWRRSPSAANEVAWVNT
+                     SGDTYDIYINIGQYAYWLIAQYDYTGNANVTLHSTPEYSSVQPGNSTSGQTYTLFNSL
+                     MKPTAGDVEALSVNGGRLNGPLGIGTDNALGGNSIVFGDNDTGFKWHSDGVLGIYANN
+                     ALVGYIDNSGLHMSVDVLTNGAVRAGNAKKLSLTSNNNSTMTATFNLWGDANRPTVIE
+                     LDDDQGWHLYSQRNPDGSIVFTVNGDITANTLRAGGAIYQNNGDIFGSLWGDGWLSTW
+                     INNNLVLDVQLGAGTSVTTWNNAGSWPNTPGYVVTSVWKDYQGENIDGINYAPLQKRV
+                     GSQWYTVQGGTV"
+     CDS             1062352..1062726
+                     /locus_tag="STM474_1002"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Gifsy-1 prophage cI protein"
+                     /protein_id="ADX16708.1"
+                     /translation="MAYQAKRHQPNNHRGYLPMENAIARKLDPPEINPIEIESVLLNR
+                     LASVGQKSYAEHMGISESTVSRRKAEGYFCNMAKELAFLGIQAAPPEAVLVSRNYLTA
+                     VEILADAGLKAERARPDALGWD"

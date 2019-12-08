@@ -1,0 +1,175 @@
+rm(list=ls())
+library(ggplot2)
+library(reshape2)
+library(ggthemes)
+library(viridis)
+library(plotrix)
+library(grid)
+library(dplyr)
+library(cowplot)
+
+
+all <- read.csv("all.csv", header = TRUE)
+
+percIdentity <- data.frame(stringsAsFactors = FALSE)
+numAnnotations <- data.frame(data.frame(stringsAsFactors = FALSE))
+
+#Make empty dataframe to store sum of average conservation to rank plot
+avgsum <- data.frame(matrix(0,nrow=280, ncol=1))
+
+#Get genera names
+#genera ordering is already in correct order 
+genera <- colnames(all)
+for(x in c(1, 18, 18)){
+  genera <- genera[-x]
+}
+genera=rev(genera)
+for(x in genera){
+  #For each genus in "all", open relevant file
+  myFile <- paste("identity/",x,".genus.identity", sep='')
+  myFile <- read.csv(myFile, header=TRUE, row.names=1)
+  
+  #percIdentity: each genus is row, each column is average seq conservation for that genus
+  percIdentity <- rbind(colMeans(myFile, na.rm = TRUE), percIdentity)
+  #numAnnotations: each genus is row, each column is average conservation (ie % of genomes in genus with annotation)
+  numAnnotations <-rbind(all[,x]/max(all[,x], na.rm=TRUE), numAnnotations)
+  #Avgsum = sum of annotations for each gene
+  avgsum <- avgsum + (all[,x]/max(all[,x], na.rm=TRUE))
+}
+
+
+#Sort out column and row names
+colnames(percIdentity) <- all$sRNA
+colnames(numAnnotations) <- all$sRNA
+rownames(percIdentity) <- rev(genera)
+rownames(numAnnotations) <- rev(genera)
+colnames(avgsum) <- "average"
+
+#Subset of genes that have passed QC
+srna_names <- read.table(file = "intergenic_only/intergenic.txt")
+tmpnames <- c()
+for(x in srna_names$V1){
+  tmpnames <- c(tmpnames,x)
+}
+srna_names <-tmpnames
+
+#rankedGenes = give sRNAs values based on num of annotations * sum of conservation for ranking
+rankedGenes <-all$Total_annotations*avgsum$average
+rankedGenes <-cbind.data.frame(rankedGenes/max(rankedGenes))
+rownames(rankedGenes) <- all$sRNA
+rankedGenes <-rankedGenes[srna_names,]
+
+#Transpose numAnnotations & percIdentity and rank sRNAs by rankedGenes values
+percIdentity <-t(percIdentity)
+percIdentity <- percIdentity[srna_names,]
+percIdentity <-percIdentity[order(rankedGenes),]
+
+percIdentity.m <- melt(percIdentity)
+numAnnotations <- t(numAnnotations)
+numAnnotations <- numAnnotations[srna_names,]
+numAnnotations <- numAnnotations[order(rankedGenes),]
+numAnnotations.m <- melt(numAnnotations)
+
+classes <-read.csv(file='../../inheritance/inheritance.csv',header = FALSE)
+classes2 <- data.frame(stringsAsFactors = FALSE)                    
+classes2 <- cbind.data.frame(classes)
+colnames(classes2) <- c("srna","class")
+rownames(classes2) <- classes2$srna
+
+classes2 <- classes2[srna_names,]
+classes2$srna <-factor(classes2$srna, levels=c(as.vector(row.names(numAnnotations))))
+
+RNAseq <-read.csv(file='../expression/salcom1/hinton_relative_expression.csv',header = FALSE, stringsAsFactors = FALSE)
+RNAseq2 <- data.frame(stringsAsFactors = FALSE)                    
+RNAseq2 <- cbind.data.frame(RNAseq)
+colnames(RNAseq2) <- c("gene","EEP","MEP","LEP","ESP","LSP","X25.deg.C","Cold_shock_.15.deg.C.","pH3_shock",
+                                                                                    "pH5.8_shock","NaCl_shock","Bile_shock","Low_Fe2._shock","Anaerobic_shock","Anaerobic_growth",
+                                                                                   "Oxygen_shock","NonSPI2","InSPI2","InSPI2_LowMg2.","Peroxide_shock_.InSPI2.","Nitric_oxide_shock_.InSPI2.")
+
+RNAseq <-read.csv(file='../expression/salcom2/ST4_74.csv',header = FALSE, stringsAsFactors = FALSE)
+RNAseq2 <- data.frame(stringsAsFactors = FALSE)                    
+RNAseq2 <- cbind.data.frame(RNAseq)
+colnames(RNAseq2) <- c("gene","EEP","MEP","LEP","ESP","LSP","25C","NaCl_shock","Bile_shock","Low_Fe2+_shock","Anaerobic_shock","Anaerobic_growth","Oxygen_shock","NonSPI2","InSPI2","Peroxide_shock_(InSPI2)","Nitric_oxide_shock_(InSPI2)","Macrophage")
+
+rownames(RNAseq2) <- RNAseq2$gene
+RNAseq2 <- RNAseq2[srna_names,]
+RNAseq2 <- RNAseq2[order(rankedGenes),]
+RNAseq2$gene <-factor(RNAseq2$gene, levels=c(as.vector(row.names(numAnnotations))))
+RNAseq2.m <- melt(RNAseq2, id.vars = "gene",na.rm = TRUE)
+
+#RNAseq2 <- melt(RNAseq.m, id.vars = "gene")# measure.vars = c("EEP","MEP","LEP","ESP","LSP","X25.deg.C","Cold_shock_.15.deg.C.","pH3_shock",
+#                                                             "pH5.8_shock","NaCl_shock","Bile_shock","Low_Fe2._shock","Anaerobic_shock","Anaerobic_growth",
+#                                                             "Oxygen_shock","NonSPI2","InSPI2","InSPI2_LowMg2.","Peroxide_shock_.InSPI2.","Nitric_oxide_shock_.InSPI2.")
+#)
+
+#Plot as heatmap:
+#1st layer - presence/absence of annotations from sRNA, genus (all2.m$Var2, all2.m$Var1)
+#2nd layer - fill with colour as % sequence identity (identity.m), set alpha to % of genomes annotated for that genus (all2.m$value)
+CLIPseq <-read.csv(file='../CLIP-seq/CLIP-seq.csv',header = FALSE)
+colnames(CLIPseq) <- c("srna","Hfq","ProQ")
+rownames(CLIPseq) <- CLIPseq$srna
+
+CLIPseq <- CLIPseq[srna_names,]
+CLIPseq <- CLIPseq[order(srna_names),]
+CLIPseq$srna <-factor(CLIPseq$srna, levels=c(as.vector(row.names(numAnnotations))))
+CLIPseq.m <- melt(CLIPseq, id.vars = "srna")
+
+p4 <- (ggplot(data=CLIPseq.m, aes(x=srna,y=variable,fill=value))
+       + geom_tile(size=0.3)
+      + scale_fill_gradient(low="white",high="darkblue")
+       + theme_tufte(base_family = "Helvetica")
+       + labs(y="",x="")
+       + theme(axis.ticks.x = element_blank(), 
+               axis.ticks.y= element_blank(),
+               axis.text.y = element_blank(),
+               axis.text.x=element_blank()
+       )
+       + theme(plot.margin = margin(l=0,t=0.4,b=-0.4,r=0,unit="cm"))
+       + theme(legend.position = "none")
+)
+
+
+p1 <- (ggplot(data=RNAseq2.m, aes(x=gene,y=variable,fill=as.numeric(value)))
+     + geom_tile(size=0.3)
+     + scale_fill_gradient2(limits=c(0,1000),low="White",high="black")
+     + theme_tufte(base_family = "Helvetica")
+     + labs(y="",x="")
+     + theme(axis.ticks.y = element_blank(), 
+             axis.ticks.x= element_line(size = 0.1),
+             axis.text.y = element_blank(),
+   #          axis.text.x=element_blank()
+            axis.text.x= element_text(size = 2,angle = 60)
+
+     )
+     + theme(plot.margin = margin(l=0,t=0,b=-0.8,r=0,unit="cm"))
+     + theme(legend.position = "none")
+)
+
+p2 <-(ggplot(classes2, aes(x=srna,y=1))
+      + geom_tile(aes(fill=class),size=0.3) 
+      + scale_fill_manual(values = c("Divergence" = "deepskyblue", "Horizontal" = "Yellow","Unsure"="springgreen","Vertical"="coral"))
+      + labs(y="",x="")
+      + theme(axis.ticks.x = element_blank(), 
+              axis.ticks.y= element_blank(),
+              axis.text.y = element_blank(),
+              axis.text.x=element_blank()
+      )
+      + theme(legend.position = "none")
+      + theme(plot.margin = margin(l=0,t=0,b=0,r=0,unit="cm"))
+)
+
+#to-do: fix legends
+p3 <- (ggplot(numAnnotations.m, aes(y=numAnnotations.m$Var2, x=numAnnotations.m$Var1))
+         + geom_tile(aes(fill=percIdentity.m$value, alpha = numAnnotations.m$value), size= 0.3)
+         + scale_alpha_continuous(range = c(0,1.0), name= "sRNA presence in clade (%)", guide=guide_legend(keywidth = 0.4, keyheight=0.4,legend.position = "right", title.position = "left", label.theme = element_text(size=1, angle =90), title.theme = element_text(size=1.2,angle=90)))
+         + scale_fill_gradient(high= "Blue", low = "Red",name = "Average % sequence identity\n(relative to starting sequence)",guide=guide_colourbar(barwidth = 0.3, barheight=1.7, legend.position="right", title.position="left",label.theme = element_text(size=0.7, angle =90), title.theme = element_text(size=1, angle=90), title.hjust = 0.01))
+         + labs(y="", x="")
+         + theme_tufte(base_family = "Helvetica")
+         + theme(axis.ticks.x = element_blank(), axis.ticks.y= element_blank())
+         + theme(axis.text.y= element_blank())
+         + theme(axis.text.x= element_blank())
+         + theme(legend.position = "none")
+         + theme(plot.margin = margin(l=0,t=-0.8,b=0,r=0,unit="cm"))
+)
+p <- plot_grid(p1,p2,p3,ncol=1,align="v",axis="none",rel_heights = c(0.1,0.1,0.8))
+p
