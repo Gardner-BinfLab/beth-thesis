@@ -1,0 +1,1 @@
+Peptococcus niger	2741	PRJEB15774	347726	Terrabacteria group	Firmicutes	1.96847	49.6	-	FNAF01	29	1903	1786	2016/10/20	2017/08/01	Scaffold	DOE - JOINT GENOME INSTITUTE	SAMN04489866	GCA_900101835.1	REFR	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/101/835/GCA_900101835.1_IMG-taxon_2634166305_annotated_assembly	-	DSM 20475

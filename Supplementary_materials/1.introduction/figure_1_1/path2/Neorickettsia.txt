@@ -1,0 +1,1 @@
+Neorickettsia sennetsu str. Miyayama	222891	PRJNA357	357	Proteobacteria	Alphaproteobacteria	0.859006	41.1	chromosome:NC_007798.1/CP000237.1	-	1	800	759	2006/02/21	2017/04/06	Complete Genome	TIGR	SAMN02604016	GCA_000013165.1	REFR	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/013/165/GCA_000013165.1_ASM1316v1	16482227	Miyayama

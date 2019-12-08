@@ -1,0 +1,1 @@
+Rhodococcus hoagii 103S	685727	PRJEA41335	41335	Terrabacteria group	Actinobacteria	5.04317	68.8	chromosome:NC_014659.1/FN563149.1	-	1	4649	4540	2010/11/09	2017/05/19	Complete Genome	IREC (International Rhodococcus equi Genome Consortium)	SAMEA2272695	GCA_000196695.1	REFR	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/196/695/GCA_000196695.1_ASM19669v1	20941392	103S
