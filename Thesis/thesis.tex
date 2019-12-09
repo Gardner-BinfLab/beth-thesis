@@ -1,0 +1,106 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% This template was created by Nathan Rountree 9/2/98
+%% Updates have since been made by others in the department.
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%
+%% In the style of a technical report, in 12pt and one sided.
+%% Start chapters on right hand side pages only.
+%%
+\documentclass[12pt]{report}    
+%%\documentclass[12pt,twoside,openright]{report} %% Use this for twosided.
+
+%%
+%% Load packages.
+%%
+\usepackage[phd]{otagothesis}     %% Use Otago page layout
+
+\usepackage[round,sectionbib,comma,sort&compress]{natbib}
+\usepackage{chapterbib}%% Use Natural Sciences bibliography
+
+\usepackage[T1]{fontenc} %% assist clipboard copy from PDF; allow < | > etc.
+\usepackage[utf8x]{inputenc}  %% allow UTF-8 conent in source files
+\usepackage{mathpazo}
+%%\usepackage[sfdefault]{cabin} %% Use nicer fonts
+\usepackage{times}              %% Times PostScript font. Don't use
+				  %% if thesis contains lots of math.
+\usepackage{flexisym} % for weird symbols
+\usepackage{textgreek}
+\usepackage{numprint}
+\usepackage[rightcaption]{sidecap}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{graphicx}             %% jpg, gif, tiff, and pdf graphics
+\usepackage{moreverb}             %% Verbatim Code Listings
+\usepackage{wrapfig}
+\usepackage{caption, subcaption}
+\captionsetup{font=footnotesize, labelfont=bf}
+\usepackage{floatrow}
+\usepackage[final]{pdfpages}
+%%
+%% Set title, author and date.
+%%
+\title{Pathogen Genomics}
+\author{Bethany R. Jose}
+\date{6\textsuperscript{th} of December, 2019}
+
+%%
+%% The library want to know all sorts of personal stuff!
+%% Can be left out if you don't use the \frontstuff command
+%%
+\fullname{Bethany Rebecca Jose}
+\department{Department of Biochemistry}
+\dob{22 December 1990} %% date-of-birth
+\address{710 Cumberland Street, North Dunedin, Dunedin, NZ}
+
+%%
+%% Uncomment to just print up a few chapters.
+%%
+%%\includeonly{literature,conclusion}
+
+
+\begin{document}
+
+%%
+%% Put in titlepage and contents, etc...
+%%
+%\frontstuff
+\linespread{1.3}
+\normalsize
+
+%%
+%% Include each chapter as a separate file.
+%% These lines assume there are files called intro.tex, literature.tex etc.
+%%
+\setlength\parindent{0pt}
+\setlength{\parskip}{6pt}
+
+\include{intro}
+\cleardoublepage
+\include{lit_review}
+\cleardoublepage
+\include{sal_sRNA}
+\cleardoublepage
+\include{psa_RNAseq}
+\cleardoublepage
+\include{psa_ncRNA}
+\cleardoublepage
+\include{assembly}
+\cleardoublepage
+\include{conclusion}
+%
+%% Make certain the ``references'' section begins on a recto page when
+%% document is double-sided.
+%% The ``bibliography'' line assumes that there is a file called
+%% ``thesis.bib'' and that somewhere in the chapter material you have
+%% cited something from it.
+%%
+\cleardoublepage
+%\bibliographystyle{otago}
+%\bibliography{thesis}
+\include{appendices}
+
+\end{document}
+%% All Done!
