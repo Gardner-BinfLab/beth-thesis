@@ -1,0 +1,63 @@
+>NC_004578.1 [Pseudomonas syringae] pv. tomato str. DC3000 chromosome, complete genome
+>NC_004633.1 [Pseudomonas syringae] pv. tomato str. DC3000 plasmid pDC3000A, complete sequence
+>NC_004632.1 [Pseudomonas syringae] pv. tomato str. DC3000 plasmid pDC3000B, complete sequence
+>NC_007005.1 Pseudomonas syringae pv. syringae B728a chromosome, complete genome
+>NZ_CP018202.1 Pseudomonas syringae pv. actinidiae ICMP 9853, complete genome
+>NZ_CP018203.1 Pseudomonas syringae pv. actinidiae ICMP 9853 plasmid p9853_A, complete sequence
+>NZ_CP018204.1 Pseudomonas syringae pv. actinidiae ICMP 9853 plasmid p9853_B, complete sequence
+>NZ_CP012179.1 Pseudomonas syringae pv. actinidiae ICMP 18708, complete genome
+>NZ_CP012180.1 Pseudomonas syringae pv. actinidiae ICMP 18708 plasmid, complete sequence
+>NZ_CP032631.1 Pseudomonas syringae pv. actinidiae str. Shaanxi_M228 chromosome, complete genome
+>NZ_CP032632.1 Pseudomonas syringae pv. actinidiae str. Shaanxi_M228 plasmid pM228, complete sequence
+>NZ_CP007014.1 Pseudomonas syringae CC1557, complete sequence
+>NZ_CP007015.1 Pseudomonas syringae CC1557 plasmid pCC1557, complete sequence
+>NZ_CP011972.2 Pseudomonas syringae pv. actinidiae ICMP 18884, complete genome
+>NZ_CP011973.1 Pseudomonas syringae pv. actinidiae ICMP 18884 plasmid, complete sequence
+>NZ_CP006256.1 Pseudomonas syringae pv. syringae HS191, complete genome
+>NZ_CP006257.1 Pseudomonas syringae pv. syringae HS191 plasmid, complete sequence
+>NZ_CP005969.1 Pseudomonas syringae pv. syringae B301D, complete genome
+>NZ_CP005970.1 Pseudomonas syringae UMAF0158, complete genome
+>NZ_CP005971.1 Pseudomonas syringae UMAF0158 plasmid, complete sequence
+>NZ_CP013183.1 Pseudomonas syringae pv. lapsa strain ATCC 10859, complete genome
+>NZ_CP017007.1 Pseudomonas syringae pv. actinidiae strain NZ-45 chromosome, complete genome
+>NZ_CP017008.1 Pseudomonas syringae pv. actinidiae strain NZ-45 plasmid pPsa20586, complete sequence
+>NZ_CP017009.1 Pseudomonas syringae pv. actinidiae strain NZ-47 chromosome, complete genome
+>NZ_CP017010.1 Pseudomonas syringae pv. actinidiae strain NZ-47 plasmid pPsa22180a, complete sequence
+>NZ_CP017011.1 Pseudomonas syringae pv. actinidiae strain NZ-47 plasmid pPsa22180b, complete sequence
+>NZ_CP019730.1 Pseudomonas syringae pv. actinidiae strain CRAFRU 12.29 chromosome, complete genome
+>NZ_CP019731.1 Pseudomonas syringae pv. actinidiae strain CRAFRU 12.29 plasmid unnamed, complete sequence
+>NZ_CP019732.1 Pseudomonas syringae pv. actinidiae strain CRAFRU 14.08 chromosome, complete genome
+>NZ_CP019733.1 Pseudomonas syringae pv. actinidiae strain CRAFRU 14.08 plasmid unnamed, complete sequence
+>NZ_CP024712.1 Pseudomonas syringae pv. actinidiae strain MAFF212063 chromosome, complete genome
+>NZ_CP024713.1 Pseudomonas syringae pv. actinidiae strain MAFF212063 plasmid pMAFF212063-A, complete sequence
+>NZ_CP024714.1 Pseudomonas syringae pv. actinidiae strain MAFF212063 plasmid pMAFF212063-B, complete sequence
+>NZ_CP026568.1 Pseudomonas syringae pv. syringae strain Pss9097 chromosome, complete genome
+>NZ_CP019871.1 Pseudomonas syringae pv. tomato strain B13-200 chromosome, complete genome
+>NZ_CP019872.1 Pseudomonas syringae pv. tomato strain B13-200 plasmid pB13-200A, complete sequence
+>NZ_CP019873.1 Pseudomonas syringae pv. tomato strain B13-200 plasmid pB13-200B, complete sequence
+>NZ_CP019874.1 Pseudomonas syringae pv. tomato strain B13-200 plasmid pB13-200C, complete sequence
+>NZ_CP028490.1 Pseudomonas syringae pv. atrofaciens strain LMG5095 chromosome, complete genome
+>NZ_CP032871.1 Pseudomonas syringae pv. actinidiae strain P155 chromosome, complete genome
+>NZ_CP032870.1 Pseudomonas syringae pv. actinidiae strain P155 plasmid pLKQG722, complete sequence
+>NZ_LT963409.1 Pseudomonas syringae isolate CFBP3840 genome assembly, chromosome: 1
+>NZ_LT963410.1 Pseudomonas syringae isolate CFBP3840 genome assembly, plasmid: PP1
+>NZ_LT963411.1 Pseudomonas syringae isolate CFBP3840 genome assembly, plasmid: PP2
+>NZ_LT963412.1 Pseudomonas syringae isolate CFBP3840 genome assembly, plasmid: PP3
+>NZ_LT963413.1 Pseudomonas syringae isolate CFBP3840 genome assembly, plasmid: PP4
+>NZ_LT962480.1 Pseudomonas syringae pv. syringae isolate CFBP4215 genome assembly, chromosome: 1
+>NZ_LT963402.1 Pseudomonas syringae pv. avii isolate CFBP3846 genome assembly, chromosome: 1
+>NZ_LT963403.1 Pseudomonas syringae pv. avii isolate CFBP3846 genome assembly, plasmid: PP1
+>NZ_LT963404.1 Pseudomonas syringae pv. avii isolate CFBP3846 genome assembly, plasmid: PP2
+>NZ_LT963405.1 Pseudomonas syringae pv. avii isolate CFBP3846 genome assembly, plasmid: PP3
+>NZ_LT963406.1 Pseudomonas syringae pv. avii isolate CFBP3846 genome assembly, plasmid: PP4
+>NZ_LT963407.1 Pseudomonas syringae pv. avii isolate CFBP3846 genome assembly, plasmid: PP5
+>NZ_LT962481.1 Pseudomonas syringae pv. syringae isolate CFBP2118 genome assembly, chromosome: 1
+>NZ_LT963391.1 Pseudomonas syringae pv. cerasicola isolate CFBP6109 genome assembly, chromosome: 1
+>NZ_LT963392.1 Pseudomonas syringae pv. cerasicola isolate CFBP6109 genome assembly, plasmid: PP1
+>NZ_LT963393.1 Pseudomonas syringae pv. cerasicola isolate CFBP6109 genome assembly, plasmid: PP2
+>NZ_LT963394.1 Pseudomonas syringae pv. cerasicola isolate CFBP6109 genome assembly, plasmid: PP3
+>NZ_LT963408.1 Pseudomonas syringae group genomosp. 3 isolate CFBP6411 genome assembly, chromosome: I
+>NZ_LT985192.1 Pseudomonas syringae strain CFBP 2116 genome assembly, chromosome: 1
+>NZ_LT985193.1 Pseudomonas syringae strain CFBP 2116 genome assembly, plasmid: PP2
+>NZ_LT985194.1 Pseudomonas syringae strain CFBP 2116 genome assembly, plasmid: PP3
+>NZ_LT985195.1 Pseudomonas syringae strain CFBP 2116 genome assembly, plasmid: PP4

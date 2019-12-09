@@ -1,0 +1,55 @@
+FT   ncRNA           221848..222047
+FT   ncRNA           221848..222047
+FT                   /hmmto="200"
+FT                   /hmmfrom="1"
+FT                   /evalue="3.8e-60"
+FT                   /query="CP011972_ncRNA_5958143_5958344_rev"
+FT                   /score=203.8
+FT   ncRNA           221848..222047
+FT                   /hmmto="200"
+FT                   /hmmfrom="1"
+FT                   /evalue="3.8e-60"
+FT                   /ID="CP011972_ncRNA_5958143_5958344_rev"
+FT                   /score=203.8
+FT   ncRNA           2106551..2106825
+FT                   /hmmto="276"
+FT                   /hmmfrom="1"
+FT                   /Evalue="1.5e-83"
+FT                   /query="CP011972_ncRNA_322030_322306_fwd"
+FT                   /score=280.8
+FT   ncRNA           2106551..2106825
+FT                   /hmmto="276"
+FT                   /hmmfrom="1"
+FT                   /Evalue="1.5e-83"
+FT                   /ID="CP011972_ncRNA_322030_322306_fwd"
+FT                   /score=280.8
+FT   ncRNA           3489717..3489881
+FT                   /hmmto="166"
+FT                   /hmmfrom="1"
+FT                   /Evalue="7.9e-46"
+FT                   /ID="CP011972_ncRNA_2653071_2653331_rev"
+FT                   /score=157.6
+FT   ncRNA           complement(3986395..3986453)
+FT                   /hmmto="225"
+FT                   /hmmfrom="167"
+FT                   /Evalue="6.4e-10"
+FT                   /ID="CP011972_ncRNA_5469984_5470208_fwd"
+FT                   /score=40.5
+FT   ncRNA           complement(3986468..3986560)
+FT                   /hmmto="95"
+FT                   /hmmfrom="2"
+FT                   /Evalue="6.6e-16"
+FT                   /ID="CP011972_ncRNA_5469984_5470208_fwd"
+FT                   /score=60.0
+FT   ncRNA           4981668..4981963
+FT                   /hmmto="296"
+FT                   /hmmfrom="1"
+FT                   /Evalue="3.8e-98"
+FT                   /ID="CP011972_ncRNA_5459360_5459656_fwd"
+FT                   /score=328.7
+FT   ncRNA           5461780..5462097
+FT                   /hmmto="318"
+FT                   /hmmfrom="1"
+FT                   /Evalue="1.2e-93"
+FT                   /ID="CP011972_ncRNA_1300899_1301216_rev"
+FT                   /score=314.6

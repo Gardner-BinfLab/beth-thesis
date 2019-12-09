@@ -1,0 +1,29 @@
+# STOCKHOLM 1.0
+
+1169508:1169620 cggctgagctctggcgttgatccggggg-atgcgaggcaggacgccgagcaagctgcaccgggccaaggatagcccgttgcagc---------------------gccccccggatcagtgacagggcgaaggaa
+1171711:1171823 cggctgagctctgtcgctgatccggggg-atgcgaggcaggacgccgagcaagctgcaccgggccaaggatggcccgttgcagc---------------------ggcccccggatcagtgacagggcgaaggaa
+2605450:2605562 cggctgagccctgacgctgatccggggg-atgcgaggcaggacgccgagcaagctgcaccgggccaaggatggcccgttgcagc---------------------gacccccggatcagtgtcagggcgaaggaa
+2160218:2160330 cggctgagctctggcgctgatccggggg-atgcgaggcaggacgccgagcaagctgcaccgggccaaggatggcccgttgcagc---------------------ggcccccggatcagtgacagggcgaaggaa
+1897213:1897325 cggctgagccctgacactgatccggggg-atgcgaggcaggacgccgagcaagccgcaccgtgccatggatggcacgttgcggc---------------------gaccgccggatcagtgtcagggcgaaggaa
+2798519:2798631 cggctgagtcctggcgctgatccggggg-tagcctggcaggacgccaggctagccgcaccggaccatggatggtccgttgcggc---------------------gacccccggatcagtgccagggcgaaggaa
+2609331:2609430 -------gccctgtcactgatccggggg----------------------tcgccgcaccggaccatccatggtccggtgcggcttgctcggcgtcctgcctcgcatcacccggatcagcgtcagggct------
+2803136:2803248 cggctgagccctgacactgatccggggg-tagctcggcaggacgccgagctagccgcaccgtgccatggatggcacgttgcggc---------------------gacccctggatcagtgtcagggcgaaggaa
+1280787:1280899 cggctgagctctggcgctgatccggggg-atgcgaggcaggacgccgagcaagctgcaccgggccaaggatggcccgttgcagc---------------------ggcccccggatcagtgtcagggcgaaggaa
+3043462:3043574 cggctgagtcctggcgctgatccggggg-atgcgaggcaggacgccgagcaagccgcaccggaccatggatggtccgttgcggc---------------------gaccgccggatcagtgacaggacgaaggaa
+3701826:3701925 -------gccctgacactgatccggggg----------------------tcgctgcaacgggccatccttggcccggtgcagcttgctcggcgtcctgcctcgcatcccccggatcagcgccagggct------
+3220060:3220172 cggctgagccctgacgctgatccggggg-atgcgaggcaggacgccgagcaagctgcaccgggccaaggatggcccgttgcagc---------------------gacccccggatcagtgtcagggcgaaggaa
+4778765:4778878 cggctgagtcctggcgctgatccgggggggtgcgaggcaggacgccgagcaagctgcaccgagccaaggatggtccgttgcggc---------------------gaccgccggatcagtgtcagggcgaaggaa
+#=GC SS_cons    ...((..((((((.(((((((((((.((..(((..(((.....)))..))).((((((.(((((((....))))))).)))))).......................)).))))))))))).))))))..))...
+#=GC RF         _______________________________________________________________________________________________________________________________________
+#=GC cons           CGGCUGAGCCCUGRCRCUGAUCCGGGGG-nnGCnnGGCAGGACGCCRRGCnAGCYGCACCGGGCCAUGGAUGGYCCGUUGCGGC---------------------GnCCCCCGGAUCAGUGYCAGGGCGAAGGAA
+#=GC conss          333333313211121111111111111103333333333333333333331311111121133111333211112113111311000000000000000000000311231211111113121111213333333
+#=GC col_entropy_0  000000000000010000000000000001100110000000000011000000000000010000000000000000000000000000000000000000000010000000000000010000000000000
+#=GC col_entropy_1  .......................................................................................................................................
+#=GC col_entropy_2  999999908500050920000000000048599779999999999933999900900060009000899602096009000900999999999999999999999950680400000009040000409999999
+#=GC col_entropy_3  444444405600030980000000000012144114444444444477448400900080055000344808095004000400444444444444444444444440810100000004060000104444444
+#=GC cov_SS_cons    ...00..021000.0?100000010.?0..?00..000.....000..00?.002000.00?2000....0002?00.000200.......................0?.010000001?0.000120..00...
+#=GF NUM_COV 3
+#=GF WEIGHT_MAP  1169508:1169620 0.644801 1171711:1171823 0.358223 2605450:2605562 0.3224 2160218:2160330 0.358223 1897213:1897325 1.10333 2798519:2798631 1.47338 2609331:2609430 2.37452 2803136:2803248 1.10333 1280787:1280899 0.358223 3043462:3043574 1.10333 3701826:3701925 2.37452 3220060:3220172 0.3224 4778765:4778878 1.10333
+#=GF USED_GSC TRUE
+#=GF DID_FRAGMENTARY FALSE.  globalOuterFirst,Last=0,135
+//

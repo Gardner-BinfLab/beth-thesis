@@ -1,0 +1,5 @@
+gb|CP011973.1|	RNIE	terminator	45384	45423	22.18	+	.	ID=terminator10000;E_value=5.20e-03;Bits=22.18;sumBits=22.18;Note=Predicted Rho independent terminator using cmsearch,seed-a-14=22.18
+gb|CP011973.1|	RNIE	terminator	23371	23407	21.12	+	.	ID=terminator10001;E_value=7.78e-03;Bits=21.12;sumBits=21.12;Note=Predicted Rho independent terminator using cmsearch,seed-a-14=21.12
+gb|CP011973.1|	RNIE	terminator	52121	52157	18.99	+	.	ID=terminator10002;E_value=1.76e-02;Bits=18.99;sumBits=18.99;Note=Predicted Rho independent terminator using cmsearch,seed-a-14=18.99
+gb|CP011973.1|	RNIE	terminator	45374	45413	30.29	-	.	ID=terminator10003;E_value=2.35e-04;Bits=30.29;sumBits=30.29;Note=Predicted Rho independent terminator using cmsearch,seed-a-14=30.29
+gb|CP011973.1|	RNIE	terminator	23361	23397	20.28	-	.	ID=terminator10004;E_value=1.08e-02;Bits=20.28;sumBits=20.28;Note=Predicted Rho independent terminator using cmsearch,seed-a-14=20.28

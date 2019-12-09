@@ -1,0 +1,426 @@
+>NC_002516.2 Pseudomonas aeruginosa PAO1 chromosome, complete genome
+>NC_002947.4 Pseudomonas putida KT2440 chromosome, complete genome
+>NC_012660.1 Pseudomonas fluorescens SBW25 complete genome
+>NC_005773.3 Pseudomonas savastanoi pv. phaseolicola 1448A, complete genome
+>NC_007274.1 Pseudomonas savastanoi pv. phaseolicola 1448A large plasmid, complete sequence
+>NC_007275.1 Pseudomonas savastanoi pv. phaseolicola 1448A small plasmid, complete sequence
+>NC_004129.6 Pseudomonas protegens Pf-5, complete genome
+>NC_007492.2 Pseudomonas fluorescens Pf0-1, complete genome
+>NC_009434.1 Pseudomonas stutzeri A1501, complete genome
+>NC_008463.1 Pseudomonas aeruginosa UCBPP-PA14, complete genome
+>NC_009439.1 Pseudomonas mendocina ymp, complete genome
+>NC_009512.1 Pseudomonas putida F1, complete genome
+>NC_009656.1 Pseudomonas aeruginosa PA7, complete genome
+>NC_010322.1 Pseudomonas putida GB-1, complete genome
+>NC_010501.1 Pseudomonas putida W619, complete genome
+>NC_008027.1 Pseudomonas entomophila str. L48 chromosome,complete sequence
+>NC_011770.1 Pseudomonas aeruginosa LESB58 complete genome sequence
+>NZ_CP008742.1 Pseudomonas savastanoi pv. savastanoi NCPPB 3335, complete genome
+>NC_017530.1 Pseudomonas putida BIRD-1, complete genome
+>NC_015379.1 Pseudomonas brassicacearum subsp. brassicacearum NFM421, complete genome
+>NC_017532.1 Pseudomonas stutzeri DSM 4166, complete genome
+>NC_015410.1 Pseudomonas mendocina NK-01, complete genome
+>NC_015556.1 Pseudomonas fulva 12-X, complete genome
+>NC_015740.1 Pseudomonas stutzeri strain CGMCC 1.1803, complete genome
+>NC_015733.1 Pseudomonas putida S16, complete genome
+>NZ_CP015202.1 Pseudomonas putida B6-2 chromosome, complete genome
+>NC_017548.1 Pseudomonas aeruginosa M18, complete genome
+>NC_016830.1 Pseudomonas fluorescens F113, complete genome
+>NZ_CP005960.1 Pseudomonas mandelii JR-1, complete genome
+>NZ_CP005961.1 Pseudomonas mandelii JR-1 plasmid, complete sequence
+>NC_017911.1 Pseudomonas fluorescens A506, complete genome
+>NC_021361.1 Pseudomonas fluorescens A506 plasmid pA506, complete sequence
+>NC_017986.1 Pseudomonas putida ND6, complete genome
+>NZ_AY208917.1 Pseudomonas putida ND6 plasmid pND6-1, complete sequence
+>NC_018746.1 Pseudomonas putida ND6 plasmid pND6-2, complete sequence
+>NC_018028.1 Pseudomonas stutzeri CCUG 29243, complete genome
+>NC_018080.1 Pseudomonas aeruginosa DK2, complete genome
+>NZ_CP015876.1 Pseudomonas putida SJTE-1, complete genome
+>NZ_CP015877.1 Pseudomonas aeruginosa SJTD-1, complete genome
+>NC_018177.1 Pseudomonas stutzeri DSM 10701, complete genome
+>NC_017549.1 Pseudomonas aeruginosa NCGM2.S1 DNA, complete genome
+>NZ_CP010945.1 Pseudomonas fluorescens NCIMB 11764, complete genome
+>NZ_HG916826.1 Pseudomonas pseudoalcaligenes CECT 5344 complete genome
+>NC_019670.1 Pseudomonas sp. UW4, complete genome
+>NC_019905.1 Pseudomonas putida HB3267, complete genome
+>NC_019906.1 Pseudomonas putida HB3267 plasmid pPC9, complete sequence
+>NC_019936.1 Pseudomonas stutzeri RCH2, complete genome
+>NC_019937.1 Pseudomonas stutzeri RCH2 plasmid pPSEST01, complete sequence
+>NC_019938.1 Pseudomonas stutzeri RCH2 plasmid pPSEST02, complete sequence
+>NC_019939.1 Pseudomonas stutzeri RCH2 plasmid pPSEST03, complete sequence
+>NC_020209.1 Pseudomonas poae RE*1-1-14, complete genome
+>NZ_CP017432.1 Pseudomonas sp. Lz4W chromosome, complete genome
+>NC_020829.1 Pseudomonas denitrificans ATCC 13867, complete genome
+>NC_020912.1 Pseudomonas aeruginosa B136-33, complete genome
+>NC_021237.1 Pseudomonas protegens CHA0, complete genome
+>NC_021491.1 Pseudomonas putida H8234, complete genome
+>NC_021505.1 Pseudomonas putida NBRC 14164 DNA, complete genome
+>NC_021499.1 Pseudomonas resinovorans NBRC 106553 DNA, complete geonome
+>NC_021506.1 Pseudomonas resinovorans NBRC 106553 plasmid pCAR1.3 DNA, complete genome
+>NC_021577.1 Pseudomonas aeruginosa RP73, complete genome
+>NZ_CP008739.1 Pseudomonas aeruginosa VRFPA04, complete genome
+>NC_022738.1 Pseudomonas sp. VLB120, complete genome
+>NC_022739.1 Pseudomonas sp. VLB120 plasmid pSTY, complete sequence
+>NZ_CP009974.1 Pseudomonas putida S12, complete genome
+>NZ_CP009975.1 Pseudomonas putida S12 plasmid pTTS12, complete sequence
+>NZ_CP013993.1 Pseudomonas aeruginosa DHS01, complete genome
+>NC_022808.2 Pseudomonas aeruginosa PA1, complete genome
+>NC_022806.1 Pseudomonas aeruginosa PA1R, complete genome
+>NZ_CP010979.1 Pseudomonas putida S13.1.2, complete genome
+>NZ_CP009365.1 Pseudomonas mosselii SJ10, complete genome
+>NC_023019.1 Pseudomonas aeruginosa MTB-1, complete genome
+>NC_023064.1 Pseudomonas sp. TKP, complete genome
+>NC_023066.1 Pseudomonas aeruginosa LES431, complete genome
+>NC_023075.1 Pseudomonas monteilii SB3078, complete genome
+>NC_023149.1 Pseudomonas aeruginosa SCV20265, complete genome
+>NC_023076.1 Pseudomonas monteilii SB3101, complete genome
+>NZ_CP007012.1 Pseudomonas sp. FGI182, complete genome
+>NZ_CP007039.1 Pseudomonas cichorii JBC1, complete genome
+>NZ_CP007147.1 Pseudomonas aeruginosa YL84, complete genome
+>NZ_CP020659.1 Pseudomonas aeruginosa PAK chromosome, complete genome
+>NZ_CP007410.1 Pseudomonas brassicacearum strain DF41, complete genome
+>NZ_CP007441.1 Pseudomonas stutzeri strain 28a24, complete genome
+>NZ_CP007509.1 Pseudomonas stutzeri strain 19SMN4, complete genome
+>NZ_CP007510.1 Pseudomonas stutzeri strain 19SMN4 plasmid pLIB119, complete plasmid
+>NZ_HG322950.1 Pseudomonas knackmussii B13 complete genome
+>NZ_CP007620.1 Pseudomonas putida strain DLL-E4, complete genome
+>NZ_CP008696.1 Pseudomonas chlororaphis strain PA23, complete genome
+>NZ_CP008896.1 Pseudomonas fluorescens strain UK4, complete genome
+>NZ_CP013124.1 Pseudomonas mendocina S5.2, complete genome
+>NZ_CP013125.1 Pseudomonas mendocina S5.2 plasmid pPME5, complete sequence
+>NZ_CP009048.1 Pseudomonas alkylphenolica strain KL28 chromosome, complete genome
+>NZ_CP009455.1 Pseudomonas cremoricolorata strain ND07, complete genome
+>NZ_CP009533.1 Pseudomonas rhizosphaerae strain DSM 16299, complete genome
+>NZ_CP009290.1 Pseudomonas chlororaphis subsp. aurantiaca strain JD37, complete genome
+>NZ_CP009747.1 Pseudomonas parafulva strain CRS01-1, complete genome
+>NZ_CP007399.1 Pseudomonas aeruginosa strain F22031, complete genome
+>NZ_CP007511.1 Pseudomonas balearica DSM 6083, complete genome
+>NZ_AP014522.1 Pseudomonas protegens Cab57 DNA, complete genome
+>NZ_AP014646.1 Pseudomonas aeruginosa DNA, complete genome, strain: NCGM 1984
+>NZ_AP014622.1 Pseudomonas aeruginosa DNA, complete genome, strain: NCGM 1900
+>NZ_AP014637.1 Pseudomonas sp. StFLB209 DNA, complete genome
+>NZ_CP010555.1 Pseudomonas aeruginosa strain FRD1, complete genome
+>NZ_CP010359.1 Pseudomonas plecoglossicida strain NyZ12, complete genome
+>NZ_CP010892.1 Pseudomonas sp. MRSN12121, complete genome
+>NZ_CP010893.1 Pseudomonas sp. MRSN12121 plasmid pMRVIM0812, complete sequence
+>NZ_CP010894.1 Pseudomonas sp. MRSN12121 plasmid, complete sequence
+>NZ_CP010896.1 Pseudomonas fluorescens strain PCL1751, complete genome
+>NZ_LK391695.1 Pseudomonas pseudoalcaligenes genome assembly Ppseudo_Pac, chromosome : I
+>NZ_CP005975.1 Pseudomonas fluorescens PICF7, complete genome
+>NZ_CP011110.1 Pseudomonas chlororaphis strain PCL1606, complete genome
+>NZ_CP011111.1 Pseudomonas chlororaphis strain PCL1606 plasmid, complete sequence
+>NZ_CP011117.2 Pseudomonas synxantha strain LBUM223 chromosome, complete genome
+>NZ_CP011317.1 Pseudomonas aeruginosa strain Carb01 63, complete genome
+>NZ_LN847264.1 Pseudomonas sp. CCOS 191 genome assembly Pseudomonas sp. strain CCOS 191, chromosome : I
+>NZ_CP011020.1 Pseudomonas chlororaphis strain UFB2, complete genome
+>NZ_CP011854.1 Pseudomonas stutzeri strain SLG510A3-8, complete genome
+>NZ_CP012001.1 Pseudomonas aeruginosa DSM 50071, complete genome
+>NZ_CP012066.1 Pseudomonas aeruginosa strain F9676, complete genome
+>NZ_CP011507.1 Pseudomonas trivialis strain IHBB745, complete genome
+>NZ_CP012679.1 Pseudomonas aeruginosa strain PA1RG, complete genome
+>NZ_CP012676.1 Pseudomonas sp. L10.10, complete genome
+>NZ_CP012830.1 Pseudomonas fluorescens strain FW300-N2E3, complete genome
+>NZ_CP012831.1 Pseudomonas fluorescens strain FW300-N2C3, complete genome
+>NZ_CP013245.1 Pseudomonas aeruginosa strain VA-134, complete genome
+>NZ_CP012680.1 Pseudomonas brassicacearum strain LBUM300, complete genome
+>NZ_LN831024.1 Pseudomonas aeruginosa genome assembly NCTC10332, chromosome : 1
+>NZ_CP013696.1 Pseudomonas aeruginosa strain 12-4-4(59), complete genome
+>NZ_LN854573.1 Pseudomonas sp. URMO17WK12:I11 genome assembly Shine, chromosome : 1
+>NZ_LN865164.1 Pseudomonas sp. URMO17WK12:I11 genome assembly YEL.embl.gz, chromosome : 1
+>NZ_CP014343.1 Pseudomonas putida strain 1A00316, complete genome
+>NZ_CP008865.2 Pseudomonas aeruginosa strain S86968, complete genome
+>NZ_CP008866.2 Pseudomonas aeruginosa strain T38079, complete genome
+>NZ_CP008867.1 Pseudomonas aeruginosa strain T52373, complete genome
+>NZ_CP008868.1 Pseudomonas aeruginosa strain T63266, complete genome
+>NZ_CP008869.2 Pseudomonas aeruginosa strain W16407, complete genome
+>NZ_CP008870.2 Pseudomonas aeruginosa strain W36662, complete genome
+>NZ_CP008871.2 Pseudomonas aeruginosa strain W45909, complete genome
+>NZ_CP008864.2 Pseudomonas aeruginosa strain W60856, complete genome
+>NZ_CP008856.2 Pseudomonas aeruginosa strain F23197, complete genome
+>NZ_CP008857.1 Pseudomonas aeruginosa strain F30658, complete genome
+>NZ_CP008859.2 Pseudomonas aeruginosa strain H5708, complete genome
+>NZ_CP008860.2 Pseudomonas aeruginosa strain H27930, complete genome
+>NZ_CP008861.1 Pseudomonas aeruginosa strain H47921, complete genome
+>NZ_CP008862.2 Pseudomonas aeruginosa strain M1608, complete genome
+>NZ_CP008863.1 Pseudomonas aeruginosa strain M37351, complete genome
+>NZ_CP013987.1 Pseudomonas oryzihabitans strain USDA-ARS-USMARC-56511, complete genome
+>NZ_CP013989.1 Pseudomonas aeruginosa strain USDA-ARS-USMARC-41639, complete genome
+>NZ_CP013997.1 Pseudomonas monteilii strain USDA-ARS-USMARC-56711, complete genome
+>NZ_CP008872.2 Pseudomonas aeruginosa strain X78812, complete genome
+>NZ_CP008873.1 Pseudomonas aeruginosa strain F9670, complete genome
+>NZ_CP013861.1 Pseudomonas fragi strain P121, complete genome
+>NZ_AP014627.1 Pseudomonas sp. Os17 DNA, complete genome
+>NZ_AP014628.1 Pseudomonas sp. St29 DNA, complete genome
+>NZ_AP014651.1 Pseudomonas aeruginosa DNA, complete genome, strain: NCGM257
+>NZ_AP014839.1 Pseudomonas aeruginosa DNA, complete genome, strain: 8380
+>NZ_AP017302.1 Pseudomonas aeruginosa DNA, complete genome, strain: IOMTU 133
+>NZ_CP014546.1 Pseudomonas azotoformans strain S4, complete genome
+>NZ_CP014158.1 Pseudomonas citronellolis strain P3B5, complete genome
+>NZ_CP008858.2 Pseudomonas aeruginosa strain F63912, complete genome
+>NZ_CP014784.1 Pseudomonas alcaligenes strain NEB 585, complete genome
+>NZ_CP014867.1 Pseudomonas chlororaphis isolate 189 chromosome, complete genome
+>NZ_CP014947.1 Pseudomonas koreensis strain D26, complete genome
+>NZ_CP014948.1 Pseudomonas aeruginosa strain N17-1 chromosome, complete genome
+>NZ_CP012400.2 Pseudomonas yamanorum strain LBUM636 chromosome, complete genome
+>NZ_CP015117.1 Pseudomonas aeruginosa strain ATCC 27853, complete genome
+>NZ_CP015377.1 Pseudomonas aeruginosa strain BAMCPA07-48, complete genome
+>NZ_CP011789.1 Pseudomonas putida strain PC2, complete genome
+>NZ_CP015600.1 Pseudomonas antarctica strain PAMC 27494 chromosome, complete genome
+>NZ_CP015601.1 Pseudomonas antarctica strain PAMC 27494 plasmid pP27494_1, complete sequence
+>NZ_CP015602.1 Pseudomonas antarctica strain PAMC 27494 plasmid pP27494_2, complete sequence
+>NZ_CP015641.1 Pseudomonas stutzeri strain 273, complete genome
+>NZ_CP015878.1 Pseudomonas citronellolis strain SJTE-3 chromosome, complete genome
+>NZ_CP015879.1 Pseudomonas citronellolis strain SJTE-3 plasmid pRBL16, complete sequence
+>NZ_CP015852.1 Pseudomonas koreensis strain CRS05-R5 chromosome, complete genome
+>NZ_CP011525.1 Pseudomonas sp. JY-Q, complete genome
+>NZ_CP011566.1 Pseudomonas sp. DR 5-09, complete genome
+>NZ_CP011567.1 Pseudomonas sp. GR 6-02, complete genome
+>NZ_CP014870.1 Pseudomonas silesiensis strain A3, complete genome
+>NZ_CP016214.1 Pseudomonas aeruginosa strain PA121617 chromosome, complete genome
+>NZ_CP016215.1 Pseudomonas aeruginosa strain PA121617 plasmid pBM413, complete sequence
+>NZ_CP011857.1 Pseudomonas aeruginosa strain ATCC 27853, complete genome
+>NZ_CP016849.1 Pseudomonas sp. TMW 2.1634 chromosome, complete genome
+>NZ_CP016850.1 Pseudomonas sp. TMW 2.1634 plasmid pL21564-1, complete sequence
+>NZ_CP016851.1 Pseudomonas sp. TMW 2.1634 plasmid pL21634-2, complete sequence
+>NZ_CP014262.1 Pseudomonas corrugata strain RM1-1-4, complete genome
+>NZ_CP015637.1 Pseudomonas fluorescens strain L321, complete genome
+>NZ_CP015638.1 Pseudomonas fluorescens strain L111, complete genome
+>NZ_CP015639.1 Pseudomonas fluorescens strain L228 chromosome, complete genome
+>NZ_CP015640.1 Pseudomonas fluorescens strain L228 plasmid, complete sequence
+>NZ_CP015992.1 Pseudomonas sp. TCU-HL1 chromosome, complete genome
+>NZ_CP015993.1 Pseudomonas sp. TCU-HL1 plasmid pTCUH, complete sequence
+>NZ_CP012585.1 Pseudomonas aeruginosa strain PA_D1, complete genome
+>NZ_CP012578.1 Pseudomonas aeruginosa strain PA_D2, complete genome
+>NZ_CP012580.1 Pseudomonas aeruginosa strain PA_D9, complete genome
+>NZ_CP012581.1 Pseudomonas aeruginosa strain PA_D16, complete genome
+>NZ_CP012583.1 Pseudomonas aeruginosa strain PA_D22, complete genome
+>NZ_CP012584.1 Pseudomonas aeruginosa strain PA_D25, complete genome
+>NZ_CP017099.1 Pseudomonas aeruginosa strain DN1 chromosome, complete genome
+>NZ_CP018048.1 Pseudomonas aeruginosa strain DN1 plasmid unnamed1, complete sequence
+>NZ_CP012579.1 Pseudomonas aeruginosa strain PA_D5, complete genome
+>NZ_CP012582.1 Pseudomonas aeruginosa strain PA_D21, complete genome
+>NZ_CP017149.1 Pseudomonas aeruginosa strain ATCC 15692 chromosome, complete genome
+>NZ_CP014693.1 Pseudomonas brassicacearum strain L13-6-12, complete genome
+>NZ_CP017296.1 Pseudomonas fluorescens strain Pt14 chromosome, complete genome
+>NZ_CP017353.1 Pseudomonas aeruginosa strain FA-HZ1, complete genome
+>NZ_CP016212.1 Pseudomonas putida JB, complete genome
+>NZ_CP015001.1 Pseudomonas aeruginosa strain PA1088, complete genome
+>NZ_CP015002.1 Pseudomonas aeruginosa strain PA8281, complete genome
+>NZ_CP015003.1 Pseudomonas aeruginosa strain PA11803, complete genome
+>NZ_CP014999.1 Pseudomonas aeruginosa strain PA7790, complete genome
+>NZ_CP015000.1 Pseudomonas aeruginosa strain PA7790 plasmid pPA7790, complete sequence
+>NZ_CP017969.1 Pseudomonas aeruginosa isolate B10W, complete genome
+>NZ_CP017886.1 Pseudomonas frederiksbergensis strain ERDD5:01 chromosome, complete genome
+>NZ_CP017887.1 Pseudomonas frederiksbergensis strain ERDD5:01 plasmid unnamed1, complete sequence
+>NZ_CP013113.1 Pseudomonas aeruginosa strain PAER4_119, complete genome
+>NZ_CP017073.1 Pseudomonas putida strain PP112420, complete genome
+>NZ_CP013477.1 Pseudomonas aeruginosa strain SCVFeb, complete genome
+>NZ_CP013478.1 Pseudomonas aeruginosa strain SCVJan, complete genome
+>NZ_CP013479.1 Pseudomonas aeruginosa strain NHmuc, complete genome
+>NZ_CP018758.1 Pseudomonas psychrotolerans strain PRS08-11306, complete genome
+>NZ_CP018759.1 Pseudomonas psychrotolerans strain PRS08-11306 plasmid pPRS08-11306, complete sequence
+>NZ_CP016162.1 Pseudomonas alcaliphila JAB1 chromosome, complete genome
+>NZ_CP018319.1 Pseudomonas frederiksbergensis strain AS1, complete genome
+>NZ_CP018320.1 Pseudomonas frederiksbergensis strain AS1 plasmid, complete sequence
+>NZ_CP013184.1 Pseudomonas protegens strain H78, complete genome
+>NZ_CP019856.1 Pseudomonas azotoformans strain F77 chromosome, complete genome
+>NZ_CP019952.1 Pseudomonas parafulva strain PRS09-11288 chromosome, complete genome
+>NZ_CP019947.1 Pseudomonas sp. CC6-YY-74 chromosome, complete genome
+>NZ_CP018846.1 Pseudomonas putida strain AA7 chromosome, complete genome
+>NZ_CP018420.1 Pseudomonas veronii strain R02 chromosome, complete genome
+>NZ_CP017290.1 Pseudomonas sp. LPH1 chromosome, complete genome
+>NZ_CP020100.1 Pseudomonas sp. S-6-2 chromosome, complete genome
+>NZ_CP020351.1 Pseudomonas amygdali pv. lachrymans strain NM002 chromosome, complete genome
+>NZ_CP014866.1 Pseudomonas aeruginosa strain PA_154197, complete genome
+>NZ_CP016955.1 Pseudomonas aeruginosa strain RIVM-EMC2982 chromosome, complete genome
+>NZ_CP020603.1 Pseudomonas aeruginosa strain E6130952 chromosome, complete genome
+>NZ_CP020602.1 Pseudomonas aeruginosa strain E6130952 plasmid pJHX613, complete sequence
+>NZ_CP020737.1 [Pseudomonas] mesoacidophila strain ATCC 31433 chromosome 1, complete sequence
+>NZ_CP020738.1 [Pseudomonas] mesoacidophila strain ATCC 31433 chromosome 2, complete sequence
+>NZ_CP020739.1 [Pseudomonas] mesoacidophila strain ATCC 31433 chromosome 3, complete sequence
+>NZ_CP020740.1 [Pseudomonas] mesoacidophila strain ATCC 31433 plasmid pATCC31433, complete sequence
+>NZ_CP020704.1 Pseudomonas aeruginosa strain PASGNDM699 chromosome, complete genome
+>NZ_CP020703.1 Pseudomonas aeruginosa strain PASGNDM345 chromosome, complete genome
+>NZ_CP021132.1 Pseudomonas fragi strain NMC25 chromosome, complete genome
+>NZ_CP021133.1 Pseudomonas fragi strain NMC25 plasmid unnamed1, complete sequence
+>NZ_CP021134.1 Pseudomonas fragi strain NMC25 plasmid unnamed2, complete sequence
+>NZ_CP021135.1 Pseudomonas fragi strain NMC25 plasmid unnamed3, complete sequence
+>NZ_CP020892.1 Pseudomonas sp. M30-35 chromosome, complete genome
+>NZ_CP021774.1 Pseudomonas aeruginosa strain Pa124 chromosome, complete genome
+>NZ_CP021775.1 Pseudomonas aeruginosa strain Pa58 chromosome, complete genome
+>NZ_CP021999.1 Pseudomonas aeruginosa strain Pa84 chromosome, complete genome
+>NZ_CP022000.1 Pseudomonas aeruginosa strain Pa127 chromosome, complete genome
+>NZ_CP022002.1 Pseudomonas aeruginosa strain Pa1242 chromosome, complete genome
+>NZ_CP022001.1 Pseudomonas aeruginosa strain Pa1207 chromosome, complete genome
+>NZ_CP022097.2 Pseudomonas protegens strain FDAARGOS_307 chromosome, complete genome
+>NZ_CP017293.1 Pseudomonas aeruginosa strain PA83 chromosome, complete genome
+>NZ_CP017294.1 Pseudomonas aeruginosa strain PA83 plasmid unnamed1, complete sequence
+>NZ_CP019338.1 Pseudomonas aeruginosa strain L10 chromosome, complete genome
+>NZ_CP022526.1 Pseudomonas aeruginosa strain Ocean-1155 chromosome, complete genome
+>NZ_CP022525.1 Pseudomonas aeruginosa strain Ocean-1175 chromosome, complete genome
+>NZ_CP023316.1 Pseudomonas aeruginosa strain PPF-1 chromosome, complete genome
+>NZ_CP023299.1 Pseudomonas mosselii strain BS011 chromosome, complete genome
+>NZ_CP023466.1 Pseudomonas frederiksbergensis strain KNU-15 chromosome, complete genome
+>NZ_AP014862.1 Pseudomonas pseudoalcaligenes KF707 = NBRC 110670 DNA, complete genome
+>NZ_AP014863.1 Pseudomonas pseudoalcaligenes KF707 = NBRC 110670 plasmid pKF707 DNA, complete genome
+>NZ_AP014623.1 Pseudomonas chlororaphis subsp. aurantiaca DNA, complete genome, strain: StFRB508
+>NZ_AP015029.1 Pseudomonas putida DNA, complete genome, strain: KF715
+>NZ_AP015030.1 Pseudomonas putida plasmid pKF715A DNA, complete genome, strain: KF715
+>NZ_AP015031.1 Pseudomonas putida plasmid pKF715B DNA, complete genome, strain: KF715
+>NZ_AP015032.1 Pseudomonas putida plasmid pKF715C DNA, complete genome, strain: KF715
+>NZ_AP015033.1 Pseudomonas putida plasmid pKF715D DNA, complete genome, strain: KF715
+>NZ_CP031449.1 Pseudomonas aeruginosa strain 97 chromosome, complete genome
+>NZ_CP023641.1 Pseudomonas mendocina strain MAE1-K chromosome, complete genome
+>NZ_CP017306.1 Pseudomonas aeruginosa strain PA_150577 chromosome, complete genome
+>NZ_CP023969.1 Pseudomonas sp. FDAARGOS_380 chromosome, complete genome
+>NZ_CP024086.1 Pseudomonas putida strain E46 chromosome, complete genome
+>NZ_CP024159.1 Pseudomonas mosselii strain PtA1 chromosome, complete genome
+>NZ_CP024085.1 Pseudomonas putida strain E41 chromosome, complete genome
+>NZ_CP016634.1 Pseudomonas putida strain IEC33019 chromosome, complete genome
+>NZ_CP016446.1 Pseudomonas putida strain IEC33019 plasmid pIEC33019, complete sequence
+>NZ_CP024477.1 Pseudomonas aeruginosa strain 12939 chromosome, complete genome
+>NZ_CP024478.1 Pseudomonas sp. HLS-6 chromosome, complete genome
+>NZ_CP025049.1 Pseudomonas aeruginosa strain PB369 chromosome, complete genome
+>NZ_CP025050.1 Pseudomonas aeruginosa strain PB368 chromosome, complete genome
+>NZ_CP025051.1 Pseudomonas aeruginosa strain PB353 chromosome, complete genome
+>NZ_CP025052.1 Pseudomonas aeruginosa strain PB353 plasmid pPB353_1, complete sequence
+>NZ_CP025053.1 Pseudomonas aeruginosa strain PB354 chromosome, complete genome
+>NZ_CP025054.1 Pseudomonas aeruginosa strain PB354 plasmid pPB354_1, complete sequence
+>NZ_CP025055.1 Pseudomonas aeruginosa strain PB350 chromosome, complete genome
+>NZ_CP025056.1 Pseudomonas aeruginosa strain PB367 chromosome, complete genome
+>NZ_CP025309.1 Pseudomonas chlororaphis strain Lzh-T5 chromosome, complete genome
+>NZ_CP025624.1 Pseudomonas sp. NC02 chromosome, complete genome
+>NZ_CP026558.1 Pseudomonas amygdali pv. morsprunorum strain R15244 chromosome, complete genome
+>NZ_CP026557.1 Pseudomonas amygdali pv. morsprunorum strain R15244 plasmid p1_tig4, complete sequence
+>NZ_CP026559.1 Pseudomonas amygdali pv. morsprunorum strain R15244 plasmid p2_tig3, complete sequence
+>NZ_CP026560.1 Pseudomonas amygdali pv. morsprunorum strain R15244 plasmid p3_tig5, complete sequence
+>NZ_CP026561.1 Pseudomonas amygdali pv. morsprunorum strain R15244 plasmid p4_tig6, complete sequence
+>NZ_CP026562.1 Pseudomonas avellanae strain R2leaf chromosome, complete genome
+>NZ_CP026563.1 Pseudomonas avellanae strain R2leaf plasmid p1_tig4, complete sequence
+>NZ_CP026564.1 Pseudomonas avellanae strain R2leaf plasmid p2_tig5, complete sequence
+>NZ_CP026565.1 Pseudomonas avellanae strain R2leaf plasmid p3_tig6, complete sequence
+>NZ_CP026566.1 Pseudomonas avellanae strain R2leaf plasmid p4_tig8, complete sequence
+>NZ_CP026567.1 Pseudomonas avellanae strain R2leaf plasmid p5_tig9, complete sequence
+>NZ_CP018049.1 Pseudomonas orientalis strain F9, complete genome
+>NZ_CP026386.1 Pseudomonas sp. PONIH3 chromosome, complete genome
+>NZ_CP014062.1 Pseudomonas monteilii strain FDAARGOS_171 plasmid unnamed, complete sequence
+>NZ_CP014061.1 Pseudomonas monteilii strain FDAARGOS_171 chromosome unnamed, complete genome
+>NZ_CP026680.1 Pseudomonas aeruginosa strain F5677 chromosome, complete genome
+>NZ_CP026674.1 Pseudomonas sp. SWI44 chromosome, complete genome
+>NZ_CP026676.1 Pseudomonas sp. SWI6 chromosome, complete genome
+>NZ_CP026675.1 Pseudomonas sp. SWI36 chromosome, complete genome
+>NZ_CP026880.1 Pseudomonas sp. LH1G9 chromosome, complete genome
+>NZ_CP026881.1 Pseudomonas sp. LG1D9 chromosome, complete genome
+>NZ_CP014025.1 Pseudomonas fulva strain FDAARGOS_167 chromosome, complete genome
+>NZ_CP026332.1 Pseudomonas sp. XWY-1 chromosome, complete genome
+>NZ_CP026333.1 Pseudomonas sp. XWY-1 plasmid, complete genome
+>NZ_CP023269.1 Pseudomonas sp. MYb193 chromosome, complete genome
+>NZ_CP023272.1 Pseudomonas lurida strain MYb11 chromosome, complete genome
+>NZ_CP027165.1 Pseudomonas aeruginosa strain AR_0360 chromosome, complete genome
+>NZ_CP027171.1 Pseudomonas aeruginosa strain AR_0354 chromosome, complete genome
+>NZ_CP027172.1 Pseudomonas aeruginosa strain AR_0353 chromosome, complete genome
+>NZ_CP027173.1 Pseudomonas aeruginosa strain AR_0353 plasmid unnamed1, complete sequence
+>NZ_CP027174.1 Pseudomonas aeruginosa strain AR_0230 chromosome, complete genome
+>NZ_CP027175.1 Pseudomonas aeruginosa strain AR_0230 plasmid unnamed1
+>NZ_CP027176.1 Pseudomonas aeruginosa strain AR_0230 plasmid unnamed2
+>NZ_CP027169.1 Pseudomonas aeruginosa strain AR_0356 chromosome, complete genome
+>NZ_CP027168.1 Pseudomonas aeruginosa strain AR_0356 plasmid unnamed1, complete sequence
+>NZ_CP027170.1 Pseudomonas aeruginosa strain AR_0356 plasmid unnamed2, complete sequence
+>NZ_CP027167.1 Pseudomonas aeruginosa strain AR_0356 plasmid unnamed3, complete sequence
+>NZ_CP027166.1 Pseudomonas aeruginosa strain AR_0357 chromosome, complete genome
+>NZ_CP027538.1 Pseudomonas aeruginosa strain AR_0095 chromosome, complete genome
+>NZ_CP027543.1 Pseudomonas stutzeri strain DW2-1 chromosome, complete genome
+>NZ_CP027664.1 Pseudomonas stutzeri strain 1W1-1A chromosome, complete genome
+>NZ_CP027657.1 Pseudomonas mendocina strain NEB698 chromosome, complete genome
+>NZ_CP027656.1 Pseudomonas chlororaphis subsp. piscium strain ZJU60 chromosome, complete genome
+>NZ_CP020560.1 Pseudomonas aeruginosa strain CR1 chromosome, complete genome
+>NZ_CP020561.2 Pseudomonas aeruginosa strain CR1 plasmid pCR1, complete sequence
+>NZ_CP028162.1 Pseudomonas aeruginosa strain MRSN12280 chromosome, complete genome
+>NZ_CP025149.1 Pseudomonas stutzeri strain SGAir0442 chromosome, complete genome
+>NZ_CP027477.1 Pseudomonas koreensis strain P19E3 chromosome, complete genome
+>NZ_CP027478.1 Pseudomonas koreensis strain P19E3 plasmid p1, complete sequence
+>NZ_CP027479.1 Pseudomonas koreensis strain P19E3 plasmid p2, complete sequence
+>NZ_CP027480.1 Pseudomonas koreensis strain P19E3 plasmid p3, complete sequence
+>NZ_CP027481.1 Pseudomonas koreensis strain P19E3 plasmid p4, complete sequence
+>NZ_CP028584.2 Pseudomonas aeruginosa strain WCHPA075019 chromosome, complete genome
+>NZ_CP028826.1 Pseudomonas fluorescens strain MS82 chromosome, complete genome
+>NZ_CP028917.1 Pseudomonas aeruginosa strain JB2 chromosome, complete genome
+>NZ_CP029089.1 Pseudomonas aeruginosa strain AR444 chromosome, complete genome
+>NZ_CP029093.1 Pseudomonas aeruginosa strain AR441 chromosome, complete genome
+>NZ_CP029091.1 Pseudomonas aeruginosa strain AR441 plasmid unnamed1, complete sequence
+>NZ_CP029092.1 Pseudomonas aeruginosa strain AR441 plasmid unnamed2, complete sequence
+>NZ_CP029094.1 Pseudomonas aeruginosa strain AR441 plasmid unnamed3, complete sequence
+>NZ_CP029088.1 Pseudomonas aeruginosa strain AR445 chromosome, complete genome
+>NZ_CP029090.1 Pseudomonas aeruginosa strain AR442 chromosome, complete genome
+>NZ_CP029097.1 Pseudomonas aeruginosa strain AR439 chromosome, complete genome
+>NZ_CP029095.1 Pseudomonas aeruginosa strain AR439 plasmid unnamed1
+>NZ_CP029096.1 Pseudomonas aeruginosa strain AR439 plasmid unnamed2, complete sequence
+>NZ_CP029482.1 Pseudomonas sp. 31-12 chromosome, complete genome
+>NZ_CP029660.1 Pseudomonas aeruginosa strain AR_0446 chromosome, complete genome
+>NZ_CP023255.1 Pseudomonas aeruginosa strain CCUG 70744 chromosome, complete genome
+>NZ_CP029745.1 Pseudomonas aeruginosa strain AR_0110 chromosome, complete genome
+>NZ_CP029772.1 Pseudomonas sp. R2A2 chromosome, complete genome
+>NZ_CP029707.1 Pseudomonas aeruginosa strain K34-7 chromosome, complete genome
+>NZ_CP029708.1 Pseudomonas aeruginosa strain K34-7 plasmid pK34-7-1, complete sequence
+>NZ_CP029693.1 Pseudomonas putida strain JBC17 chromosome, complete genome
+>NZ_CP030351.1 Pseudomonas aeruginosa strain AR_460 chromosome, complete genome
+>NZ_CP030328.1 Pseudomonas aeruginosa strain AR_455 chromosome, complete genome
+>NZ_CP030327.1 Pseudomonas aeruginosa strain AR_458 chromosome, complete genome
+>NZ_CP029983.1 Pseudomonas sp. LG1E9 chromosome, complete genome
+>NZ_CP030750.1 Pseudomonas putida strain NX-1 chromosome, complete genome
+>NZ_CP030861.1 Pseudomonas aeruginosa strain HS9 chromosome, complete genome
+>NZ_CP032552.1 Pseudomonas aeruginosa strain PA34 chromosome, complete genome
+>NZ_CP029608.1 Pseudomonas kribbensis strain 46-2 chromosome, complete genome
+>NZ_CP031396.1 Pseudomonas protegens strain FD6 chromosome, complete genome
+>NZ_CP030913.1 Pseudomonas aeruginosa strain Y89 chromosome, complete genome
+>NZ_CP030914.1 Pseudomonas aeruginosa strain Y89 plasmid pY89, complete sequence
+>NZ_CP030912.1 Pseudomonas aeruginosa strain Y82 chromosome, complete genome
+>NZ_CP030910.1 Pseudomonas aeruginosa strain Y31 chromosome, complete genome
+>NZ_CP031146.1 Pseudomonas plecoglossicida strain XSDHY-P chromosome, complete genome
+>NZ_CP030911.1 Pseudomonas aeruginosa strain Y71 chromosome, complete genome
+>NZ_CP031606.1 Pseudomonas sp. phDV1 chromosome, complete genome
+>NZ_CP031641.1 Pseudomonas parafulva strain JBCS1880 chromosome, complete genome
+>NZ_CP031648.1 Pseudomonas fluorescens strain Pf275 chromosome, complete genome
+>NZ_CP031659.1 Pseudomonas aeruginosa strain PABL012 chromosome, complete genome
+>NZ_CP031660.1 Pseudomonas aeruginosa strain PABL017 chromosome, complete genome
+>NZ_CP029605.1 Pseudomonas aeruginosa strain 24Pae112 chromosome, complete genome
+>NZ_CP012901.1 Pseudomonas aeruginosa strain N15-01092, complete sequence
+>NZ_CP032257.1 Pseudomonas aeruginosa strain AR_0111 chromosome, complete genome
+>NZ_CP032256.1 Pseudomonas aeruginosa strain AR_0111 plasmid unnamed, complete sequence
+>NZ_CP032419.1 Pseudomonas sp. K2W31S-8 chromosome, complete genome
+>NZ_CP031450.1 Pseudomonas fluorescens strain SIK_W1 chromosome, complete genome
+>NZ_CP032616.1 Pseudomonas sp. DY-1 chromosome, complete genome
+>NZ_CP032615.1 Pseudomonas sp. DY-1 plasmid p.1, complete sequence
+>NZ_CP032618.1 Pseudomonas fluorescens strain PF08 chromosome, complete genome
+>NZ_CP032677.1 Pseudomonas sp. Leaf58 chromosome, complete genome
+>NZ_CP032678.1 Pseudomonas sp. Leaf58 plasmid pBASL58, complete sequence
+>NZ_CP032761.1 Pseudomonas aeruginosa strain 268 chromosome, complete genome
+>NZ_CP022561.1 Pseudomonas putida strain B4 chromosome, complete genome
+>NZ_CP022562.1 Pseudomonas monteilii strain B5 chromosome, complete genome
+>NZ_CP022563.1 Pseudomonas monteilii strain B5 plasmid pSH5-1, complete sequence
+>NZ_LN870292.1 Pseudomonas aeruginosa DK1 genome assembly Pseudomonas aeruginosa DK1 substr. NH57388A, chromosome : I
+>NZ_LN871187.1 Pseudomonas aeruginosa genome assembly PAO1OR, chromosome : I
+>NZ_LT222319.1 Pseudomonas sp. 58 isolate Sour cherry (Prunus cerasus) symptomatic leaf genome assembly, chromosome: 1
+>NZ_LT222313.1 Pseudomonas sp. 58 isolate Sour cherry (Prunus cerasus) symptomatic leaf genome assembly, plasmid: p58T1
+>NZ_LT222314.1 Pseudomonas sp. 58 isolate Sour cherry (Prunus cerasus) symptomatic leaf genome assembly, plasmid: p58T2
+>NZ_LT222315.1 Pseudomonas sp. 58 isolate Sour cherry (Prunus cerasus) symptomatic leaf genome assembly, plasmid: p58T3
+>NZ_LT222316.1 Pseudomonas sp. 58 isolate Sour cherry (Prunus cerasus) symptomatic leaf genome assembly, plasmid: p58T4
+>NZ_LT222317.1 Pseudomonas sp. 58 isolate Sour cherry (Prunus cerasus) symptomatic leaf genome assembly, plasmid: p58T5
+>NZ_LT222318.1 Pseudomonas sp. 58 isolate Sour cherry (Prunus cerasus) symptomatic leaf genome assembly, plasmid: p58T6
+>NZ_LT608330.1 Pseudomonas aeruginosa isolate PA14Or_reads genome assembly, chromosome: PA14OR
+>NZ_LT673656.1 Pseudomonas aeruginosa isolate PcyII-10 genome assembly, chromosome: PcyII-10
+>NZ_LT855380.1 Pseudomonas viridiflava strain CFBP 1590 genome assembly, chromosome: I
+>NZ_LT883143.1 Pseudomonas aeruginosa C-NN2 isolate early isolate NN2 (clone C) genome assembly, chromosome: I
+>NZ_LT963395.1 Pseudomonas cerasi isolate PL963 genome assembly, chromosome: 1
+>NZ_LT963396.1 Pseudomonas cerasi isolate PL963 genome assembly, plasmid: PP1
+>NZ_LT963397.1 Pseudomonas cerasi isolate PL963 genome assembly, plasmid: PP2
+>NZ_LT963398.1 Pseudomonas cerasi isolate PL963 genome assembly, plasmid: PP3
+>NZ_LT963399.1 Pseudomonas cerasi isolate PL963 genome assembly, plasmid: PP4
+>NZ_LT963400.1 Pseudomonas cerasi isolate PL963 genome assembly, plasmid: PP5
+>NZ_LT963401.1 Pseudomonas cerasi isolate PL963 genome assembly, plasmid: PP6
+>NZ_LT969519.1 Pseudomonas aeruginosa isolate RW109 genome assembly, plasmid: 1
+>NZ_LT969521.1 Pseudomonas aeruginosa isolate RW109 genome assembly, plasmid: 2
+>NZ_LT969520.1 Pseudomonas aeruginosa isolate RW109 genome assembly, chromosome: Mainomosome
+>NZ_LS483372.1 Pseudomonas fluorescens strain NCTC10038 genome assembly, chromosome: 1
+>NZ_LS483370.1 Pseudomonas taetrolens strain NCTC10697 genome assembly, chromosome: 1
+>NZ_LS483433.1 Pseudomonas mucidolens strain NCTC8068 genome assembly, chromosome: 1

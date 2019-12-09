@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+
+CP011972.2_6013104_6013277_- ggcgcgcggggcacacggtggcgaaagggttcactctctcatacgtggtcacggctagccgtgccgacaaggactccacgccgataccgtgcgggccactctcccacgcgggtgctgtcacaccaatgtgagtaccggcctctgtcccgcgctcctcaatcctggcaaagcgaa
+CP011972.2_5040669_5040833_- ------cggggcacacggtggcgaaagggttcactctctcatacgtggtcacggctagccgtgccgacaaggactccacgccgataccgtgcgggccactctcccacgcgggtgctgtcacaccaatgtgagtaccggcctctgtcccgcgctcctcaatcctggcaaagc---
+CP011972.2_4634388_4634555_- -----gcggggcacacggtggcgaaagggttcactctctcatacgtggtcacggctagccgtgccgacaaggactccacgccgataccgtgcgggccactctcccacgcgggtgctgtcacaccaatgtgagtaccggcctctgtcccgcgctcctcaatcctggcaaagcga-
+#=GC SS_cons                 .....((((((((((((((((((...((((((.............(((.(((((....))))))))....))))))..))))...)))))).(((.......)))..((.(((((..(((((....)))))))))).))...))))))))(((((........))...)))...
+#=GC RF                      ______________________________________________________________________________________________________________________________________________________________________________
+#=GC cons                    -----GCGGGGCACACGGUGGCGAAAGGGUUCACUCUCUCAUACGUGGUCACGGCUAGCCGUGCCGACAAGGACUCCACGCCGAUACCGUGCGGGCCACUCUCCCACGCGGGUGCUGUCACACCAAUGUGAGUACCGGCCUCUGUCCCGCGCUCCUCAAUCCUGGCAAAGCGA-
+#=GC conss                   000003111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111330
+#=GC col_entropy_0           000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+#=GC col_entropy_1           ..............................................................................................................................................................................
+#=GC col_entropy_2           999999000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000999
+#=GC col_entropy_3           111111000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000111
+#=GC cov_SS_cons             .....?00000000000000000...000000.............000.00000....00000000....000000..0000...000000.000.......000..00.00000..00000....0000000000.00...0000000?00000........00...000...
+#=GF NUM_COV 0
+#=GF WEIGHT_MAP  CP011972.2_6013104_6013277_- 1 CP011972.2_5040669_5040833_- 1 CP011972.2_4634388_4634555_- 1
+#=GF USED_GSC TRUE
+#=GF DID_FRAGMENTARY FALSE.  globalOuterFirst,Last=0,174
+//

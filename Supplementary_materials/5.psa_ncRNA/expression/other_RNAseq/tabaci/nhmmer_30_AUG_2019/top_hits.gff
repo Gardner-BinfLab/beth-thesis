@@ -1,0 +1,70 @@
+ACHU02000146.1	nhmmer	CP011972_ncRNA_119433_119810_fwd	5852	5907	39.3	+	.	E-value=8e-10;query=CP011972_ncRNA_119433_119810_fwd;hmmfrom=1;hmmto=56;
+ACHU02001221.1	nhmmer	CP011972_ncRNA_1300899_1301216_rev	16198	16515	314.6	+	.	E-value=1.2e-93;query=CP011972_ncRNA_1300899_1301216_rev;hmmfrom=1;hmmto=318;
+ACHU02001220.1	nhmmer	CP011972_ncRNA_1324562_1324681_fwd	4933	5051	130.8	-	.	E-value=9.3e-38;query=CP011972_ncRNA_1324562_1324681_fwd;hmmfrom=1;hmmto=119;
+ACHU02001196.1	nhmmer	CP011972_ncRNA_1456361_1456660_fwd	2212	2492	234.7	-	.	E-value=1.6e-69;query=CP011972_ncRNA_1456361_1456660_fwd;hmmfrom=1;hmmto=279;
+ACHU02001190.1	nhmmer	CP011972_ncRNA_1494687_1495064_rev	2490	2613	94.8	+	.	E-value=9e-27;query=CP011972_ncRNA_1494687_1495064_rev;hmmfrom=252;hmmto=375;
+ACHU02001157.1	nhmmer	CP011972_ncRNA_1718052_1718210_fwd	16217	16351	117.8	-	.	E-value=7.4e-34;query=CP011972_ncRNA_1718052_1718210_fwd;hmmfrom=3;hmmto=137;
+ACHU02001130.1	nhmmer	CP011972_ncRNA_1752191_1752476_fwd	1166	1300	118.6	-	.	E-value=6.7e-34;query=CP011972_ncRNA_1752191_1752476_fwd;hmmfrom=151;hmmto=285;
+ACHU02001128.1	nhmmer	CP011972_ncRNA_1766902_1767068_rev	7999	8149	123.9	+	.	E-value=3.6e-36;query=CP011972_ncRNA_1766902_1767068_rev;hmmfrom=1;hmmto=151;
+ACHU02001128.1	nhmmer	CP011972_ncRNA_1766907_1767062_fwd	8007	8150	120.6	-	.	E-value=5.6e-35;query=CP011972_ncRNA_1766907_1767062_fwd;hmmfrom=2;hmmto=146;
+ACHU02000887.1	nhmmer	CP011972_ncRNA_1849920_1850097_rev	1972	2150	168.7	+	.	E-value=2.2e-49;query=CP011972_ncRNA_1849920_1850097_rev;hmmfrom=1;hmmto=178;
+ACHU02001340.1	nhmmer	CP011972_ncRNA_1897172_1897363_fwd	203	244	23.7	-	.	E-value=0.00017;query=CP011972_ncRNA_1897172_1897363_fwd;hmmfrom=2;hmmto=43;
+ACHU02000596.1	nhmmer	CP011972_ncRNA_1897172_1897363_fwd	4506	4545	24.5	-	.	E-value=9.3e-05;query=CP011972_ncRNA_1897172_1897363_fwd;hmmfrom=2;hmmto=41;
+ACHU02000876.1	nhmmer	CP011972_ncRNA_1900868_1901148_fwd	494	769	242.1	-	.	E-value=1.1e-71;query=CP011972_ncRNA_1900868_1901148_fwd;hmmfrom=3;hmmto=277;
+ACHU02000876.1	nhmmer	CP011972_ncRNA_1901261_1901639_rev	2	379	431.7	+	.	E-value=2.5e-129;query=CP011972_ncRNA_1901261_1901639_rev;hmmfrom=1;hmmto=377;
+ACHU02000875.1	nhmmer	CP011972_ncRNA_1904241_1904570_fwd	6585	6903	314.5	-	.	E-value=9.3e-94;query=CP011972_ncRNA_1904241_1904570_fwd;hmmfrom=1;hmmto=319;
+ACHU02000600.1	nhmmer	CP011972_ncRNA_2397801_2398064_fwd	6914	7100	107.4	-	.	E-value=1.7e-30;query=CP011972_ncRNA_2397801_2398064_fwd;hmmfrom=15;hmmto=224;
+ACHU02000569.1	nhmmer	CP011972_ncRNA_2433675_2433899_rev	1554	1777	207.0	+	.	E-value=4.1e-61;query=CP011972_ncRNA_2433675_2433899_rev;hmmfrom=1;hmmto=223;
+ACHU02000813.1	nhmmer	CP011972_ncRNA_2537900_2538235_fwd	443	788	273.0	-	.	E-value=4.4e-81;query=CP011972_ncRNA_2537900_2538235_fwd;hmmfrom=2;hmmto=345;
+ACHU02000791.1	nhmmer	CP011972_ncRNA_2569431_2569763_fwd	26	359	352.3	-	.	E-value=3.3e-105;query=CP011972_ncRNA_2569431_2569763_fwd;hmmfrom=1;hmmto=332;
+ACHU02000775.1	nhmmer	CP011972_ncRNA_2622176_2622307_fwd	2392	2523	115.1	-	.	E-value=7.1e-33;query=CP011972_ncRNA_2622176_2622307_fwd;hmmfrom=1;hmmto=132;
+ACHU02000764.1	nhmmer	CP011972_ncRNA_2653071_2653331_rev	401	565	157.6	+	.	E-value=7.9e-46;query=CP011972_ncRNA_2653071_2653331_rev;hmmfrom=1;hmmto=166;
+ACHU02000022.1	nhmmer	CP011972_ncRNA_2898578_2898736_fwd	2340	2497	144.6	+	.	E-value=7.9e-42;query=CP011972_ncRNA_2898578_2898736_fwd;hmmfrom=1;hmmto=156;
+ACHU02001383.1	nhmmer	CP011972_ncRNA_3131669_3131911_fwd	1508	1745	202.4	-	.	E-value=1.6e-59;query=CP011972_ncRNA_3131669_3131911_fwd;hmmfrom=2;hmmto=242;
+ACHU02000346.1	nhmmer	CP011972_ncRNA_320205_320563_fwd	21002	21320	248.7	+	.	E-value=1.3e-73;query=CP011972_ncRNA_320205_320563_fwd;hmmfrom=19;hmmto=337;
+ACHU02000362.1	nhmmer	CP011972_ncRNA_3219768_3219971_rev	2930	2981	20.3	-	.	E-value=0.001;query=CP011972_ncRNA_3219768_3219971_rev;hmmfrom=17;hmmto=66;
+ACHU02000131.1	nhmmer	CP011972_ncRNA_3219768_3219971_rev	6075	6134	20.5	-	.	E-value=0.00082;query=CP011972_ncRNA_3219768_3219971_rev;hmmfrom=15;hmmto=72;
+ACHU02000346.1	nhmmer	CP011972_ncRNA_322030_322306_fwd	22443	22717	280.8	+	.	E-value=1.5e-83;query=CP011972_ncRNA_322030_322306_fwd;hmmfrom=1;hmmto=276;
+ACHU02000540.1	nhmmer	CP011972_ncRNA_3260267_3260449_fwd	2110	2289	184.7	-	.	E-value=2.1e-54;query=CP011972_ncRNA_3260267_3260449_fwd;hmmfrom=1;hmmto=180;
+ACHU02000563.1	nhmmer	CP011972_ncRNA_3397111_3397361_rev	9976	10086	21.0	-	.	E-value=0.00062;query=CP011972_ncRNA_3397111_3397361_rev;hmmfrom=109;hmmto=204;
+ACHU02001312.1	nhmmer	CP011972_ncRNA_3397111_3397361_rev	2830	3074	191.5	-	.	E-value=3.1e-56;query=CP011972_ncRNA_3397111_3397361_rev;hmmfrom=1;hmmto=244;
+ACHU02001245.1	nhmmer	CP011972_ncRNA_4470964_4471188_fwd	9060	9285	225.4	+	.	E-value=1.4e-66;query=CP011972_ncRNA_4470964_4471188_fwd;hmmfrom=1;hmmto=224;
+ACHU02001053.1	nhmmer	CP011972_ncRNA_4663968_4664124_rev	8522	8679	138.5	+	.	E-value=4.2e-40;query=CP011972_ncRNA_4663968_4664124_rev;hmmfrom=1;hmmto=156;
+ACHU02000258.1	nhmmer	CP011972_ncRNA_474957_475394_rev	17748	17787	25.8	-	.	E-value=1.1e-05;query=CP011972_ncRNA_474957_475394_rev;hmmfrom=1;hmmto=40;
+ACHU02000151.1	nhmmer	CP011972_ncRNA_5148068_5148376_fwd	1534	1632	67.8	+	.	E-value=2.5e-18;query=CP011972_ncRNA_5148068_5148376_fwd;hmmfrom=195;hmmto=293;
+ACHU02000388.1	nhmmer	CP011972_ncRNA_5306571_5306972_fwd	15512	15900	265.9	-	.	E-value=7.9e-79;query=CP011972_ncRNA_5306571_5306972_fwd;hmmfrom=17;hmmto=395;
+ACHU02000869.1	nhmmer	CP011972_ncRNA_5377254_5377679_rev	62880	63246	340.3	+	.	E-value=1.4e-101;query=CP011972_ncRNA_5377254_5377679_rev;hmmfrom=1;hmmto=381;
+ACHU02001112.1	nhmmer	CP011972_ncRNA_5459360_5459656_fwd	555	850	328.7	+	.	E-value=3.8e-98;query=CP011972_ncRNA_5459360_5459656_fwd;hmmfrom=1;hmmto=296;
+ACHU02000012.1	nhmmer	CP011972_ncRNA_5459703_5459897_fwd	326	394	53.4	-	.	E-value=7.4e-14;query=CP011972_ncRNA_5459703_5459897_fwd;hmmfrom=125;hmmto=193;
+ACHU02001112.1	nhmmer	CP011972_ncRNA_5459703_5459897_fwd	899	1091	203.1	+	.	E-value=5.6e-60;query=CP011972_ncRNA_5459703_5459897_fwd;hmmfrom=1;hmmto=193;
+ACHU02000869.1	nhmmer	CP011972_ncRNA_5469984_5470208_fwd	39809	39867	40.5	-	.	E-value=6.4e-10;query=CP011972_ncRNA_5469984_5470208_fwd;hmmfrom=167;hmmto=225;
+ACHU02000869.1	nhmmer	CP011972_ncRNA_5469984_5470208_fwd	39882	39974	60.0	-	.	E-value=6.6e-16;query=CP011972_ncRNA_5469984_5470208_fwd;hmmfrom=2;hmmto=95;
+ACHU02000315.1	nhmmer	CP011972_ncRNA_5827137_5827361_fwd	6876	7098	197.2	-	.	E-value=5e-58;query=CP011972_ncRNA_5827137_5827361_fwd;hmmfrom=1;hmmto=223;
+ACHU02000256.1	nhmmer	CP011972_ncRNA_5953317_5953616_rev	2206	2391	19.7	-	.	E-value=0.00094;query=CP011972_ncRNA_5953317_5953616_rev;hmmfrom=30;hmmto=213;
+ACHU02000370.1	nhmmer	CP011972_ncRNA_5953317_5953616_rev	3430	3550	19.7	+	.	E-value=0.00097;query=CP011972_ncRNA_5953317_5953616_rev;hmmfrom=83;hmmto=211;
+ACHU02000869.1	nhmmer	CP011972_ncRNA_5958143_5958344_rev	39785	39894	20.6	-	.	E-value=0.00097;query=CP011972_ncRNA_5958143_5958344_rev;hmmfrom=80;hmmto=198;
+ACHU02000062.1	nhmmer	CP011972_ncRNA_5958143_5958344_rev	40358	40557	203.8	+	.	E-value=3.8e-60;query=CP011972_ncRNA_5958143_5958344_rev;hmmfrom=1;hmmto=200;
+ACHU02000257.1	nhmmer	CP011972_ncRNA_6049539_6049688_fwd	13047	13195	161.1	-	.	E-value=3.1e-47;query=CP011972_ncRNA_6049539_6049688_fwd;hmmfrom=2;hmmto=150;
+ACHU02000255.1	nhmmer	CP011972_ncRNA_6082989_6083300_rev	18933	19188	243.5	+	.	E-value=4.3e-72;query=CP011972_ncRNA_6082989_6083300_rev;hmmfrom=1;hmmto=252;
+ACHU02001131.1	nhmmer	CP011972_ncRNA_6513384_6513635_rev	2668	2833	83.6	+	.	E-value=3.4e-23;query=CP011972_ncRNA_6513384_6513635_rev;hmmfrom=37;hmmto=198;
+ACHU02000869.1	nhmmer	CP011972_ncRNA_743622_743984_fwd	41635	41752	21.3	-	.	E-value=0.00024;query=CP011972_ncRNA_743622_743984_fwd;hmmfrom=16;hmmto=133;
+ACHU02000059.1	nhmmer	CP011972_ncRNA_745275_745542_rev	11516	11623	49.2	+	.	E-value=9.6e-13;query=CP011972_ncRNA_745275_745542_rev;hmmfrom=2;hmmto=125;
+ACHU02000160.1	nhmmer	CP011972_ncRNA_745275_745542_rev	7683	7786	51.2	-	.	E-value=2.4e-13;query=CP011972_ncRNA_745275_745542_rev;hmmfrom=3;hmmto=124;
+ACHU02000699.1	nhmmer	CP011972_ncRNA_760028_760267_fwd	85	172	45.1	-	.	E-value=2.9e-11;query=CP011972_ncRNA_760028_760267_fwd;hmmfrom=29;hmmto=118;
+ACHU02000100.1	nhmmer	CP011972_ncRNA_886333_886638_fwd	1571	1671	29.4	-	.	E-value=1.3e-06;query=CP011972_ncRNA_886333_886638_fwd;hmmfrom=194;hmmto=294;
+ACHU02000099.1	nhmmer	CP011972_ncRNA_886333_886638_fwd	91	373	52.5	-	.	E-value=1.1e-13;query=CP011972_ncRNA_886333_886638_fwd;hmmfrom=22;hmmto=295;
+ACHU02000096.1	nhmmer	CP011972_ncRNA_905019_905228_fwd	7245	7326	60.5	-	.	E-value=6.3e-16;query=CP011972_ncRNA_905019_905228_fwd;hmmfrom=127;hmmto=208;
+ACHU02001133.1	nhmmer	CP011973_ncRNA_48867_49061_fwd	4049	4178	44.3	+	.	E-value=4.3e-11;query=CP011973_ncRNA_48867_49061_fwd;hmmfrom=1;hmmto=107;
+ACHU02001131.1	nhmmer	CP011973_ncRNA_48867_49061_fwd	2035	2110	62.0	+	.	E-value=1.4e-16;query=CP011973_ncRNA_48867_49061_fwd;hmmfrom=120;hmmto=195;
+##gff-version 3
+##gff-version 3
+ACHU02000256.1	nhmmer	CP011972_ncRNA_5953317_5953616_rev	2206	2391	19.7	-	.	E-value=0.00094;query=CP011972_ncRNA_5953317_5953616_rev;hmmfrom=30;hmmto=213;
+##nhmmer results on [final_candidates_2/hmms/trainingSeqs.hmm] vs [/home/beth/Dropbox/PhD/Psa/ncRNA_prediction/unsorted/other_RNAseq/tabaci/ACHU02_unique_contigs.1.fasta]
+##nhmmer results on [final_candidates_2/hmms/trainingSeqs.hmm] vs [/home/beth/Dropbox/PhD/Psa/ncRNA_prediction/unsorted/other_RNAseq/tabaci/ACHU02_unique_contigs.1.fasta]
+##gff-version 3
+##nhmmer results on [final_candidates_2/hmms/trainingSeqs.hmm] vs [/home/beth/Dropbox/PhD/Psa/ncRNA_prediction/unsorted/other_RNAseq/tabaci/ACHU02_unique_contigs.1.fasta]
+##gff-version 3
+##nhmmer results on [final_candidates_2/hmms/trainingSeqs.hmm] vs [/home/beth/Dropbox/PhD/Psa/ncRNA_prediction/unsorted/other_RNAseq/tabaci/ACHU02_unique_contigs.1.fasta]
+##nhmmer results on [final_candidates_2/hmms/trainingSeqs.hmm] vs [/home/beth/Dropbox/PhD/Psa/ncRNA_prediction/unsorted/other_RNAseq/tabaci/ACHU02_unique_contigs.1.fasta]
+##gff-version 3
+##nhmmer results on [final_candidates_2/hmms/trainingSeqs.hmm] vs [/home/beth/Dropbox/PhD/Psa/ncRNA_prediction/unsorted/other_RNAseq/tabaci/ACHU02_unique_contigs.1.fasta]
