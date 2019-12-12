@@ -1,0 +1,353 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:bcl2fastq="http://www.illumina.com/bcl2fastq">
+<head>
+<style type="text/css">
+
+body {
+    font-size: 100%; /*The biggest table so far is the demultiplex summary. Verify if it is still viewable if you change this*/
+    font-family:monospace;
+}
+
+/* Firefox and probably others: force right scrollbar to make sure that percentage colun widths are calculated
+   same way as in data table */
+#ScrollableTableHeaderDiv {overflow: scroll; overflow-x: hidden; border-left: 1px gray solid; border-bottom: 0px gray solid; 
+            padding:0px; margin: 0px;
+
+    border-width: 1px 1px 1px 1px;
+    border-style: inset inset inset inset;
+}
+
+/*IE 7 and 8 only. Disable the header table right scrollbar so that it does not get painted on top of the
+  last column heading*/
+*+html #ScrollableTableHeaderDiv {overflow: hidden; overflow-x: hidden; border-left: 1px gray solid; border-bottom: 0px gray solid; 
+            padding:0px; margin: 0px;
+
+    border-width: 1px 1px 1px 1px;
+    border-style: inset inset inset inset;
+}
+
+/*IE 6 only (unverified). Disable the header table right scrollbar so that it does not get painted on top of the
+  last column heading*/
+* html #ScrollableTableHeaderDiv {overflow: hidden; overflow-x: hidden; border-left: 1px gray solid; border-bottom: 0px gray solid; 
+            padding:0px; margin: 0px;
+
+    border-width: 1px 1px 1px 1px;
+    border-style: inset inset inset inset;
+}
+
+table#ReportTable {
+    border-width: 1px 1px 1px 1px;
+    border-collapse: collapse;
+
+}
+
+table#ReportTable th {
+}
+
+table#ReportTable td {
+    text-align:left;
+padding: 0.3em;
+
+}
+
+</style>
+</head>
+<body>
+<table width="100%"><tr>
+<td><p><p>CAUD1ANXX /
+        [all projects] /
+        [all samples] /
+        [all barcodes]</p></p></td>
+</tr></table>
+<h2>Flowcell Summary</h2>
+<table border="1" ID="ReportTable">
+<tr>
+<th>Clusters (Raw)</th>
+<th>Clusters(PF)</th>
+<th>Yield (MBases)</th>
+</tr>
+<tr>
+<td>258,996,129</td>
+<td>248,730,183</td>
+<td>62,183</td>
+</tr>
+</table>
+<h2>Lane Summary</h2>
+<table border="1" ID="ReportTable">
+<tr>
+<th>Lane</th>
+<th>PF Clusters</th>
+<th>% of the<br>lane</th>
+<th>% Perfect<br>barcode</th>
+<th>% One mismatch<br>barcode</th>
+<th>Yield (Mbases)</th>
+<th>% PF<br>Clusters</th>
+<th>% &gt;= Q30<br>bases</th>
+<th>Mean Quality<br>Score</th>
+</tr>
+<tr>
+<td>8</td>
+<td>248,730,183</td>
+<td>100.00</td>
+<td>98.61</td>
+<td>1.39</td>
+<td>62,183</td>
+<td>96.04</td>
+<td>95.42</td>
+<td>35.91</td>
+</tr>
+</table>
+<h2>Sample Summary</h2>
+<table border="1" ID="ReportTable">
+<tr>
+<th>Lane</th>
+<th>Project</th>
+<th>Sample</th>
+<th>Barcode sequence</th>
+<th>PF Clusters</th>
+<th>% of the<br>lane</th>
+<th>% Perfect<br>barcode</th>
+<th>% One mismatch<br>barcode</th>
+<th>Yield (Mbases)</th>
+<th>% PF<br>Clusters</th>
+<th>% &gt;= Q30<br>bases</th>
+<th>Mean Quality<br>Score</th>
+</tr>
+<tr>
+<td>8</td>
+<td>NZGL02428</td>
+<td>CAUD1ANXX-2428-01-2-1</td>
+<td>CGATGT</td>
+<td>20,934,018</td>
+<td>8.42</td>
+<td>98.97</td>
+<td>1.03</td>
+<td>5,234</td>
+<td>96.49</td>
+<td>95.68</td>
+<td>35.96</td>
+</tr>
+<tr>
+<td>8</td>
+<td>NZGL02428</td>
+<td>CAUD1ANXX-2428-02-2-1</td>
+<td>TGACCA</td>
+<td>20,685,180</td>
+<td>8.32</td>
+<td>98.94</td>
+<td>1.06</td>
+<td>5,171</td>
+<td>96.58</td>
+<td>95.85</td>
+<td>35.99</td>
+</tr>
+<tr>
+<td>8</td>
+<td>NZGL02428</td>
+<td>CAUD1ANXX-2428-03-2-1</td>
+<td>ACAGTG</td>
+<td>20,896,274</td>
+<td>8.40</td>
+<td>97.60</td>
+<td>2.40</td>
+<td>5,224</td>
+<td>96.49</td>
+<td>95.50</td>
+<td>35.93</td>
+</tr>
+<tr>
+<td>8</td>
+<td>NZGL02428</td>
+<td>CAUD1ANXX-2428-04-2-1</td>
+<td>GCCAAT</td>
+<td>21,123,619</td>
+<td>8.49</td>
+<td>98.70</td>
+<td>1.30</td>
+<td>5,281</td>
+<td>96.47</td>
+<td>95.55</td>
+<td>35.94</td>
+</tr>
+<tr>
+<td>8</td>
+<td>NZGL02428</td>
+<td>CAUD1ANXX-2428-05-2-1</td>
+<td>CAGATC</td>
+<td>21,639,991</td>
+<td>8.70</td>
+<td>97.03</td>
+<td>2.97</td>
+<td>5,410</td>
+<td>96.37</td>
+<td>95.52</td>
+<td>35.93</td>
+</tr>
+<tr>
+<td>8</td>
+<td>NZGL02428</td>
+<td>CAUD1ANXX-2428-06-2-1</td>
+<td>CTTGTA</td>
+<td>20,540,549</td>
+<td>8.26</td>
+<td>99.15</td>
+<td>0.85</td>
+<td>5,135</td>
+<td>96.22</td>
+<td>95.55</td>
+<td>35.94</td>
+</tr>
+<tr>
+<td>8</td>
+<td>NZGL02428</td>
+<td>CAUD1ANXX-2428-07-2-1</td>
+<td>AGTCAA</td>
+<td>19,396,766</td>
+<td>7.80</td>
+<td>98.90</td>
+<td>1.10</td>
+<td>4,849</td>
+<td>96.42</td>
+<td>95.64</td>
+<td>35.95</td>
+</tr>
+<tr>
+<td>8</td>
+<td>NZGL02428</td>
+<td>CAUD1ANXX-2428-08-2-1</td>
+<td>AGTTCC</td>
+<td>19,536,741</td>
+<td>7.85</td>
+<td>98.86</td>
+<td>1.14</td>
+<td>4,884</td>
+<td>96.26</td>
+<td>95.49</td>
+<td>35.92</td>
+</tr>
+<tr>
+<td>8</td>
+<td>NZGL02428</td>
+<td>CAUD1ANXX-2428-09-2-1</td>
+<td>ATGTCA</td>
+<td>20,401,585</td>
+<td>8.20</td>
+<td>98.69</td>
+<td>1.31</td>
+<td>5,100</td>
+<td>96.08</td>
+<td>95.34</td>
+<td>35.90</td>
+</tr>
+<tr>
+<td>8</td>
+<td>NZGL02428</td>
+<td>CAUD1ANXX-2428-10-2-1</td>
+<td>CCGTCC</td>
+<td>20,556,005</td>
+<td>8.26</td>
+<td>98.64</td>
+<td>1.36</td>
+<td>5,139</td>
+<td>96.13</td>
+<td>95.08</td>
+<td>35.84</td>
+</tr>
+<tr>
+<td>8</td>
+<td>NZGL02428</td>
+<td>CAUD1ANXX-2428-11-2-1</td>
+<td>GTCCGC</td>
+<td>21,284,087</td>
+<td>8.56</td>
+<td>98.71</td>
+<td>1.29</td>
+<td>5,321</td>
+<td>96.35</td>
+<td>95.43</td>
+<td>35.91</td>
+</tr>
+<tr>
+<td>8</td>
+<td>NZGL02428</td>
+<td>CAUD1ANXX-2428-12-2-1</td>
+<td>GTGAAA</td>
+<td>19,073,028</td>
+<td>7.67</td>
+<td>99.04</td>
+<td>0.96</td>
+<td>4,768</td>
+<td>96.40</td>
+<td>95.19</td>
+<td>35.86</td>
+</tr>
+<tr>
+<td>8</td>
+<td>default</td>
+<td>Undetermined</td>
+<td style="font-style:italic">unknown</td>
+<td>2,662,340</td>
+<td>1.07</td>
+<td>100.00</td>
+<td>NaN</td>
+<td>666</td>
+<td>73.52</td>
+<td>89.00</td>
+<td>34.56</td>
+</tr>
+</table>
+<h2>Top Unknown Barcodes</h2>
+<table border="1" ID="ReportTable">
+<tr>
+<th>
+        Lane
+    </th>
+<th>Count</th>
+<th>Sequence</th>
+</tr>
+<tr>
+<th rowspan="11">8</th>
+<td>45,219</td>
+<td>CCCGTC</td>
+</tr>
+<tr></tr>
+<tr>
+<td>35,717</td>
+<td>GTCCCG</td>
+</tr>
+<tr>
+<td>33,905</td>
+<td>CCGATG</td>
+</tr>
+<tr>
+<td>33,390</td>
+<td>CAGTCA</td>
+</tr>
+<tr>
+<td>32,522</td>
+<td>TGTCAG</td>
+</tr>
+<tr>
+<td>28,165</td>
+<td>CCAGAT</td>
+</tr>
+<tr>
+<td>22,827</td>
+<td>AGATCA</td>
+</tr>
+<tr>
+<td>21,437</td>
+<td>CCTTGT</td>
+</tr>
+<tr>
+<td>21,091</td>
+<td>CGCCAA</td>
+</tr>
+<tr>
+<td>20,719</td>
+<td>CGTCCC</td>
+</tr>
+</table>
+<p></p>
+</body>
+</html>

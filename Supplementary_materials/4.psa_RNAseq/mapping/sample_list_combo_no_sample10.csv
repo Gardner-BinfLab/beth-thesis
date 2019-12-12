@@ -1,0 +1,12 @@
+sample,sample_name,media
+Sample_1,M9-1,minimal_log_late_log
+Sample_2,M9-2,minimal_log_late_log
+Sample_3,LB-3,rich_log_late
+Sample_4,LB-4,rich_log_late
+Sample_5,ST-5,starved_early
+Sample_6,ST-6,starved_early
+Sample_7,LB-7,rich_log
+Sample_8,LB-8,rich_log
+Sample_9,LB-9,rich_log
+Sample_11,ST-11,starved_early
+Sample_12,ST-12,starved_early

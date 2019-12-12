@@ -1,0 +1,13 @@
+sample,sample_name,timepoint,phase
+Sample_1,M9-1,minimal,log_late_log
+Sample_2,M9-2,minimal,log_late_log
+Sample_3,LB-3,rich,log_late
+Sample_4,LB-4,rich,log_late
+Sample_5,ST-5,starved,early
+Sample_6,ST-6,starved,early
+Sample_7,LB-7,rich,log
+Sample_8,LB-8,rich,log
+Sample_9,LB-9,rich,log
+Sample_10,LBA-10,rich,log
+Sample_11,ST-11,starved,early
+Sample_12,ST-12,starved,early

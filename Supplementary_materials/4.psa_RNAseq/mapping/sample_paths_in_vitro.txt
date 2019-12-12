@@ -1,0 +1,14 @@
+mapping/in_vitro/kallisto/countfiles/Sample_01.tsv
+mapping/in_vitro/kallisto/countfiles/Sample_02.tsv
+mapping/in_vitro/kallisto/countfiles/Sample_03.tsv
+mapping/in_vitro/kallisto/countfiles/Sample_04.tsv
+mapping/in_vitro/kallisto/countfiles/Sample_05.tsv
+mapping/in_vitro/kallisto/countfiles/Sample_06.tsv
+mapping/in_vitro/kallisto/countfiles/Sample_07.tsv
+mapping/in_vitro/kallisto/countfiles/Sample_08.tsv
+mapping/in_vitro/kallisto/countfiles/Sample_09.tsv
+mapping/in_vitro/kallisto/countfiles/Sample_10.tsv
+mapping/in_vitro/kallisto/countfiles/Sample_11.tsv
+mapping/in_vitro/kallisto/countfiles/Sample_12.tsv
+
+
