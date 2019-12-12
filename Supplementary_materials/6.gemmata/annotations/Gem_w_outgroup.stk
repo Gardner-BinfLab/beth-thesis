@@ -1,0 +1,138 @@
+# STOCKHOLM 1.0
+#=GF AU Infernal 1.1.2
+
+E_coli_K12         AAAUUGAAGAGUUUGAUCAUGGCUCAGAUUGAACGCUGGCGGCAGGCCUAACACAUGCAAGUCGAACGGUAacagGAAGAAGCUUGCUUCUUUgcuGACGAGUGGCGGACGGGUGAGUAAUGUCUGGGA-AACUGCCUGAUGGAGGGGGAUAACUACUGGAAACGGUAGCUAAUACCGCAUAAC-------GUCGCAAGA
+#=GR E_coli_K12 PP **********************************************************************999999999999999999999999999********************************.9*****************************************************.......9********
+Gem_CJuql4         -UUUUGAAGGGUUUGAUCCUGGCUCAGAACGAACGUUGGCGGCAUGGAUUAGGCAUGCAAGUCGCGGGG--....--GCCCAGCAAUGGG---...--AGACCGGCGUAAGGGGCAGUAAGGCAUGGGU-ACCUACCCCGGGGUUCGGGAUAGCCACCAGAGAUGGUGGGUAAUACCGGAUGAC-------CUCGAGAGA
+#=GR Gem_CJuql4 PP .****************************************************************9994........469999***9995........45*****************************.9*****************************************************.......999****99
+Gem_JW11           ---UUGAAGGGUUUGAUUCUGGCUCAGAACGAACGUUGGCGGCAUGGAUUAGGCAUGCAAGUCGGGGGAA-....---UCCCGCAAGGGG---...--GAACCGGCGUAAGGGGCAGUAAGGCAUGGGU-ACCUACCCGGGGGUUCGGGAUAGCCAUCAGAGAUGGUGGGUAAUACCGGAUGAC-------CUCGUGAGA
+#=GR Gem_JW11   PP ...*****************************************************************44........477777777774........34*****************************.9*****************************************************.......999****99
+Gem_JW3            ---UUGAAGGGUUUGAUUCUGGCUCAGAACGAACGUUGGCGGCGUGGAUUAGGCAUGCAAGUCGGGGGAA-....---UCCCGCAAGGGG---...--GAACCGGCGUAAGGGGCAGUAAGGCAUGGGUAACCUACCUUUGGGUUCGGGAUAGCCAUCAGAGAUGGUGGGUAAUACCGGAUGAC-------GUCGUGAGA
+#=GR Gem_JW3    PP ...*****************************************************************44........477777777774........34************************************************************************************.......999****99
+Gem_JW9            ---UUGAAGGGUUUGAUUCUGGCUCAGAACGAACGUUGGCGGCGUGGAUUAGGCAUGCAAGUCGGGGGAA-....---UCCCGCAAGGGG---...--GAACCGGCGUAAGGGGCAGUAAGGCAUGGGUAACCUACCUUUGGGUUCGGGAUAGCCAUCAGAGAUGGUGGGUAAUACCGGAUGAC-------GUCGUGAGA
+#=GR Gem_JW9    PP ...*****************************************************************44........477777777774........34************************************************************************************.......999****99
+Gem_obs            ---UUGAAGGGUUUGAUUCUGGCUCAGAACGAACGUUGGCGGCAUGGAUUAGGCAUGCAAGUCGGGGGAA-....---UCCCGCAAGGGG---...--GAACCGGCGUAAGGGGCAGUAAGGCAUGGGU-ACCUACCCGGGGGUUCGGGAUAGCCAUCAGAGAUGGUGGGUAAUACCGGAUGAC-------CUCGUGAGA
+#=GR Gem_obs    PP ...*****************************************************************44........477777777774........34*****************************.9*****************************************************.......999****99
+#=GC SS_cons       ::::::::<<<<<_______>>>>>,{{{{-{{{{{{,{{{{{{{{{----{{{-{{{,,<<<--<<<<<-....<<<<<<<____>>>>>>>...->>->>>>>>,,,,,,[[[,,,,,,((((((((--((---(((((((,<<<<----<<<<<<<____>>>>>>>----->>>>,,,,,<<<<<<<<<<____>>
+#=GC RF            uuuauggAGaGuuUGAUCcUggCuCAGggcGaaCGCuGGCGGcgcGcuUaAcaCAuGCAAGuCGagcccca....cggggccuuaaggccccg...agggggcGgCGaAcGGGuGAGUAAcgCGcgggcAAccUacCcccgggugcgGgAUAccccccgGAAAcggggggUAAUACcgcAUaaugccccggcccguaugg
+
+E_coli_K12         C-------CAAAGAGggguaccuucgGGCCUCUUGCCAUCGGAUGUGCCCAGAUGGGAUUAGCUAGUAGGUGGGGUAACGGCUCACCUAGGCGACGAUCCCUAGCUGGUCUGAGAGGAUGACCAGCCACACUGGAACUGAGACACGGUCCAGACUCCUACGGGAGGCAGCAGUGGGGAAUAUUGCACAAUGGGCGCAAGC
+#=GR E_coli_K12 PP 9.......******99****99877655555*************************************************************************************************************************************************************************
+Gem_CJuql4         G-------CAAAGG-...........-UCCG-CCGCCCUGGGAGGGGCCCAUGUGAUAUUAGCUAGUUGGUGGGGUAACGGCCCACCAAGGCGAAGAUGUCUAGCGGGUGUGAGAGCACGACCCGCGCCACUCGCACUGAGACACUGGCGAGACACCUACGGGUGGCUGCAGUCGAGGAUCUUCGGCAAUGGGGGCAACC
+#=GR Gem_CJuql4 PP 9.......******.............8888.************************************************************************************************************************************************************************
+Gem_JW11           G-------CAAAGA-...........-UUCA-UCGCCCCCGGAGGGGCCCAUGUGAUAUUAGCUAGUUGGUGGGGUAACGGCCCACCAAGGCGAAGAUGUCUAGCGGGUGUGAGAGCACGACCCGCGCCACUCGCACUGAGACACUGGCGAGACACCUACGGGUGGCUGCAGUCGAGGAUCUUCGGCAAUGGGGGCAACC
+#=GR Gem_JW11   PP 9.......******.............7777.************************************************************************************************************************************************************************
+Gem_JW3            C-------CAAAGA-...........-UUUA-UCGCCCUCAGAGGGGCCCAUGUGAUAUUAGCUAGUUGGUAAGGUAACGGCUUACCAAGGCGAAGAUGUCUAGCGGGUGUGAGAGCACGACCCGCGCCACUCGCACUGAGACACUGGCGAGACACCUACGGGUGGCUGCAGUCGAGGAUCUUCGGCAAUGGGCGCAAGC
+#=GR Gem_JW3    PP 9.......******.............6666.************************************************************************************************************************************************************************
+Gem_JW9            C-------CAAAGA-...........-UUUA-UCGCCCUCAGAGGGGCCCAUGUGAUAUUAGCUAGUUGGUAAGGUAACGGCUUACCAAGGCGAAGAUGUCUAGCGGGUGUGAGAGCACGACCCGCGCCACUCGCACUGAGACACUGGCGAGACACCUACGGGUGGCUGCAGUCGAGGAUCUUCGGCAAUGGGCGCAAGC
+#=GR Gem_JW9    PP 9.......******.............6666.************************************************************************************************************************************************************************
+Gem_obs            G-------CAAAGA-...........-UUCA-UCGCCCCCGGAGGGGCCCAUGUGAUAUUAGCUAGUUGGUGGGGUAACGGCCCACCAAGGCGAAGAUGUCUAGCGGGUGUGAGAGCACGACCCGCGCCACUCGCACUGAGACACUGGCGAGACACCUACGGGUGGCUGCAGUCGAGGAUCUUCGGCAAUGGGGGCAACC
+#=GR Gem_obs    PP 9.......******.............7777.************************************************************************************************************************************************************************
+#=GC SS_cons       >>>>>>>>,,,,<<<..........._____>>>,)))))))--))))))))))<<<--<-<<<--<<<<<<<<_______>>>>>>>>>>>----->>>>,,<<<<<<<<____>>>>--->>>>]]],<<<<<<__________>>>>>>,<<<<____>>>>,,,}}}}}}-},,,,,<-<<<---<<<<<____>>
+#=GC RF            gccggggcuAAAGgc...........auuuagcCGcccgggGAugggcccgCGccccAUcAGcuAGuuGGuggGGUAAuGGCccaCCaaggCgAuGAggggUAGccGgccuGAGAgggcGauCggCCaCAcuGGgaCUGAGAcACGgcCCagACuCCUACGGGaGGCAGCaGugggGAAUauUgcgCAAugGgcGaAAgc
+
+E_coli_K12         CUGAUGCAGCCAUGCCGCGUGUAUGAAGAAGGCCUUCGGGUUGUAAAGUACUUUCAGCGGGGAGGAAG-GGAGUAAaguuaauaCCUUUGCUCAUUGACGUUACCCGCAGAAGAAGCACCGGCUAACUCCGUGCCAGCAGCCGCGGUAAUACGGAGGGUGCAAGCGUUAAUCGGAAUUACUGGGCGUAAAGCGCACGCAG
+#=GR E_coli_K12 PP *****************************************************************998.7888888899988754445558999**********************************************************************************************************
+Gem_CJuql4         CUGACCGAGCGAUGCCGCGUGCGCGAUGAAGGCCUUCGGGUUGUAAAGCGCGAAA-GUGGGGAGAAAGGCCGCAAG........------GCG--UGAUC-UAUCCAC--AGUAAGCUCGGGCUAAGUUCGUGCCAGCAGCCGCGGUAAGACGAACCGAGCGAACGUUGUUCGGAAUCACUGGGCUUAAAGGGCGCGUAG
+#=GR Gem_CJuql4 PP ***************************************************9986.77778888877777666543..............666..99986.6777777..569***************************************************************************************
+Gem_JW11           CUGACCGAGCGAUGCCGCGUGCGCGAUGAAGGCCUUCGGGUUGUAAAGCGCUUUAGUGGGGGAGAAAAGCCGCAA-........-----GGUG--UGAUC-UAUCCCAAAAAUAAGCUCGGGCUAAGUUCGUGCCAGCAGCCGCGGUAAGACGAACCGAGCGAACGUUGUUCGGAAUCACUGGGCUUAAAGGGCGCGUAG
+#=GR Gem_JW11   PP ****************************************************************99987755533..............2444..99985.89*************************************************************************************************
+Gem_JW3            CUGACCGAGCGACGCCGCGUGCGCGAUGAAGGCCUUCGGGUUGUAAAGCGCUUUAGUGGGGGAGAAAA-GCCCGAA........-----AGGGUGUGAU-CUAUCCCAAAAAUAAGCACGGGCUAAGUUCGUGCCAGCAGCCGCGGUAAGACGAACCGUGCGAACGUUGUUCGGAAUCACUGGGCUUAAAGGGCGCGUAG
+#=GR Gem_JW3    PP ***************************************************************97776.7888654.............59999****7.5899************************************************************************************************
+Gem_JW9            CUGACCGAGCGACGCCGCGUGAGCGAUGAAGGCCUUCGGGUUGUAAAGCUCUUUAGUGGGGGAGAAAAGCCGCAA-........-----GGUG--UGAUC-UAUCCCAAAAAUAAGCACGGGCUAAGUUCGUGCCAGCAGCCGCGGUAAGACGAACCGUGCGAACGUUGUUCGGAAUCACUGGGCUUAAAGGGCGCGUAG
+#=GR Gem_JW9    PP ****************************************************************99987755533..............2444..99985.89*************************************************************************************************
+Gem_obs            CUGACCGAGCGAUGCCGCGUGCGCGAUGAAGGCCUUCGGGUUGUAAAGCGCUUUAGUGGGGGAGAAAAGC-CGA--........-----GAGGUGUGAU-CUAUCCCAAAAAUAAGCUCGGGCUAAGUUCGUGCCAGCAGCCGCGGUAAGACGAACCGAGCGAACGUUGUUCGGAAUCACUGGGCUUAAAGGGCGCGUAG
+#=GR Gem_obs    PP ***************************************************************9888754.442...............2456669997.589*************************************************************************************************
+#=GC SS_cons       >>>->>>>,}}-}}}}}},,<<<<------<<<<____>>>>----->>>>,,,<<<<<<<---<-----<<<___........______>>>----->---->>>>>>--->,,<<<<<------<<<<<-----<<____>>------->>>>>>>>>>,}}}}}}}}}},,,,,,,,,,{{{-----{,[[[[-[-[
+#=GC RF            CugAcgcaGCgAcgCCGCGUGgggGAuGAAggccUUcGggccGUAAAcccCUuUcccggGgGAagAaaaaccgaua........uuuuaucgguuuGAcggUAcCccgggAagAAGcccCGGCUAAcuccGUGCCAGCAGCCGCGGUAAuACggagGgggCaaGCGuugccCGGAaUuAuUGGGcGUAAAGgGcgcGcAg
+
+E_coli_K12         GCGGUUUGUUAAGUCAGAUGUGAAAUCCCCGGGCUCAACCUGGGAACUGCAUCUGAUACUGGCAAGCUUGAGUCUCGUAGAGGGGGGUAGAAUUCCAGGUGUAGCGGUGAAAUGCGUAGAGAUCUGGAGGAAUACCGGUGGCGAAGGCGGCCCCCUGGACGAAGACUGACGCUCAGGUGCGAAAGCGUGGGGAGCAAACA
+#=GR E_coli_K12 PP ********************************************************************************************************************************************************************************************************
+Gem_CJuql4         GCGGGCUGUCAAGUUUGGGGUGAAAUCCCGCGGCUCAACCGUGGAACUGCCUUAAAUACUGACGGUCUCGAGGGGGAUAGGGGCGAGCGGAACUGAUGGUGGAGCGGUGAAAUGCGUUGAUAUCAUCAGGAACUCCGGUGGCGAAGGCGGCUCGCUGGAUCCCUUCUGACGCUGAGGCGCGAAAGCCAGGGGAGCAAACG
+#=GR Gem_CJuql4 PP ********************************************************************************************************************************************************************************************************
+Gem_JW11           GCGGGCUAUCAAGUCUGGGGUGAAAUGCCGCGGCUCAACCGUGGAACUGCCUCAGAUACUGACGGCCUCGAGGGAGGUAGGGGCAUGCGGAACUGUAGGUGGAGCGGUGAAAUGCGUUGAUAUCUACAGGAACUCCGGUGGCGAAAGCGGCGUGCUGGACCUCUUCUGACGCUGAGGCGCGAAAGCUAGGGGAGCAAACG
+#=GR Gem_JW11   PP ********************************************************************************************************************************************************************************************************
+Gem_JW3            GCGGGCUGUCAAGUCUGGGGUGAAAUCCCGCGGCUCAACCGUGGAACUGCCUCAGAUACUGACGGCCUCGAGGGAGGUAGGGGCAUGCGGAACUGUAGGUGGAGCGGUGAAAUGCGUUGAUAUCUACAGGAACUCCGGUGGCGAAGGCGGCGUGCUGGACCUCUUCUGACGCUGAGGCGCGAAAGCUAGGGGAGCAAACG
+#=GR Gem_JW3    PP ********************************************************************************************************************************************************************************************************
+Gem_JW9            GCGGGCUGUCAAGUCUGGGGUGAAAUCCCGCGGCUCAACCGUGGAACUGCCUCAGAUACUGACGGCCUCGAGGGAGGUAGGGGCAUGCGGAACUGUAGGUGGAGCGGUGAAAUGCGUUGAUAUCUACAGGAACUCCGGUGGCGAAGGCGGCGUGCUGGACCUCUUCUGACGCUGAGGCGCGAAAGCUAGGGGAGCAAACG
+#=GR Gem_JW9    PP ********************************************************************************************************************************************************************************************************
+Gem_obs            GCGGGCUAUCAAGUCUGGGGUGAAAUGCCGCGGCUCAACCGCGGAACGGCCUCAGAUACUGACGGCCUGGAGGGAGGUAGGGGCAUGUGGAACUGUAGGUGGAGCGGUGAAAUGCGUUGAUAUCUACAGGAACUCCGGUGGCGAAAGCGACGUGCUGGACCUCUUCUGACGCUGAGGCGCGAAAGCUAGGGGAGCAAACG
+#=GR Gem_obs    PP ********************************************************************************************************************************************************************************************************
+#=GC SS_cons       [[,<<<<<<<-<<<<<<<<<<<----<<<<<<<_____>>>>>>>-->>>>>>>>>-->>>>>>>>>,,,(((((((((--(((((((<<--<<<<<<<<---<<<______>>>------>>>>>>>>-->>,,,,<--<<____>>>)))))))-))))))-))),,,]]]]--]]]],,,,<<<<<<---<<---<<
+#=GC RF            GcGGcccggcAaGucgggcgcgAAAucccgcgGCUcAACcgcgggaucgcgcccgaaACugccgggCUuGaGuccggccGAgGggggcggAAcucccgguGUAGcgGUGAAAugCGUAGAuaucgggagGAacACCacugGCGAAGGCggccccCuGggccgguaCuGACgCugAggcgCGAAAGCguGGGgAgCaAAcg
+
+E_coli_K12         GGAUUAGAUACCCUGGUAGUCCACGCCGUAAACGAUGUCGACUUGGAGGUUGUGCCCUUGAGGCGUGGCUUCCGGAGCUAACGCGUUAAGUCGACCGCCUGGGGAGUACGGCCGCAAGGUUAAAACUCAAAUGAAUUGACGGGGGCCCGCACAAGCGGUGGAGCAUGUGGUUUAAUUCGAUGCAACGCGAAGAACCUUA.
+#=GR E_coli_K12 PP *******************************************************************************************************************************************************************************************************.
+Gem_CJuql4         GGAUUAGAUACCCCGGUAGUCCUGGCCCUAAACGUUGGGUACUAGGUAGUAGACUUGACAUGGGUUUACUGCCGAAGCAAAAGUGCUAAGUACCCCGCCUGGGGAGUAUGGUCGCAAGGCUGAAACUCAAAGGAAUUGACGGGGGCUCACACAAGCGGUGGAGCAUGUGGCUUAAUUCGAGGCUACGCGAAGAACCUUAu
+#=GR Gem_CJuql4 PP ********************************************************************************************************************************************************************************************************
+Gem_JW11           GGAUUAGAUACCCCGGUAGUCCUAGCCCUAAACGAUGGGUACUAGAUAGUGGGCCUGAUA-UAGCUCACUGUCGAAGUUAAAAUGCUAAGUACCCCGCCUGGGGAGUAUGGUCGCAAGGCUGAAACUCAAAGAAAUUGACGGGGGCUCACACAAGCGGUGGAGCAUGUGGCUUAAUUCGAGGCUACGCGAAGAACCUUAu
+#=GR Gem_JW11   PP ******************************************************886555.557****************************************************************************************************************************************
+Gem_JW3            GGAUUAGAUACCCCGGUAGUCCUAGCCCUAAACGAUGGGUACUAGAUAGUAGGCUAGAUAUGAGCUUACUGUCGAAGUUAAAAUGCUAAGUACCCCGCCUGGGGAGUAUGGUCGCAAGGCUGAAACUCAAAGAAAUUGACGGGGGCUCACACAAGCGGUGGAGCAUGUGGCUUAAUUCGAGGCUACGCGAAGAACCUUAu
+#=GR Gem_JW3    PP ********************************************************************************************************************************************************************************************************
+Gem_JW9            GGAUUAGAUACCCCGGUAGUCCUAGCCCUAAACGAUGGGUACUAGAUAGUAGGCUAGAUAUGAGCUUACUGUCGAAGUUAAAAUGCUAAGUACCCCGCCUGGGGAGUAUGGUCGCAAGGCUGAAACUCAAAGAAAUUGACGGGGGCUCACACAAGCGGUGGAGCAUGUGGCUUAAUUCGAGGCUACGCGAAGAACCUUAu
+#=GR Gem_JW9    PP ********************************************************************************************************************************************************************************************************
+Gem_obs            GGAUUAGAUACCCCGGUAGUCCUAGCCCUAAACGAUGGGUACUAGAUAGUAGACCAGAUAUGGGUUUACUGUCGAAGUUAAAAUGCUAAGUACCCCGCCUGGGGAGUAUGGUCGCAAGGCUGAAACUCAAAGAAAUUGACGGGGGCUCACACAAGCGGUGGAGCAUGUGGCUUAAUUCGAGGCUACGCGAAGAACCUUAu
+#=GR Gem_obs    PP ********************************************************************************************************************************************************************************************************
+#=GC SS_cons       <<_________>>>>--->>>>>>>>,,,,,,,,,,((((((,,<<<<<<<<<<<<_____>>>>>>>>>>>>,,,<<____>>,,,,,))))))}}}},<<<------<<<<____>>>>---->>>,,,,,,,,{{{{{-{{{{{{{-{{,,{{{{{{{{{{{{{{{{{,,,,<<<<________>>>>,,,,,,,,.
+#=GC RF            GGAUUAGAUACCCcgGUAGuCCacGCcgUAAACGAUGggcgCUAGgcgccggggggauuaaccccccggcgcCgaAGcuAAcgCauUAAGcgccCCgCCUGgGGAgUACggcCGCAAGgcugAAACuCAAAGGAAUuGaCgGgGgCCCGCaCAAGCGguGgagcauGuGGuUUAAuuCGAuGcaAcgCGaaGAACCUUA.
+
+E_coli_K12         CCUGGUCUUGACAUCCACGG.............AAGUUUUCAGAGA...............................UGAGAAUGUGCCUU....CG...............................................GGAA..CCGUGAGACAGGUGCUGCAUGGCUGUCGUCAGCUCGUGUUGUGAAAUGUU
+#=GR E_coli_K12 PP ********************.............*************...............................**************....**...............................................****..**************************************************
+Gem_CJuql4         CCUGGACUUGACAUG-----.............-------------uucgaaagaggcagcagguaggacccggaaa--------------....--cgggaacgaacggua................cccaacccggaagcug----..-----CCACAGGUGCUGCAUGGCUGUCGUCAGCUCGUGUCGUGAGAUGUC
+#=GR Gem_CJuql4 PP **************9...............................4566667777777788899999999999999....................999999999999999................9999999999988654...........59*******************************************
+Gem_JW11           CCUGGACUUGACAUGUGCGAaagcgcucgguagUAGAACCCGGAAA...............................CGGGGACGAACCAGc..a-A...............................................UGGG.aGCCGAGUACAGGUGCUGCAUGGCUGUCGUCAGCUCGUGUCGUGAGAUGUC
+#=GR Gem_JW11   PP **********999994333335556666666766777777777777...............................777777774444444..4.4...............................................4433.3666677********************************************
+Gem_JW3            CCUGGACUUGACAUGUGCGA.............AAG----------...............................--------------....--cgcucgguaguaggagccggaaacgguaacgaaccuagcaauaggga----..GCCGAGUACAGGUGCUGCAUGGCUGUCGUCAGCUCGUGUCGUGAGAUGUC
+#=GR Gem_JW3    PP ***********999954444.............332.............................................................33344455566666666677777776665444444443333333333......444466********************************************
+Gem_JW9            CCUGGACUUGACAUGUGCGA.............AAGC---------gcucgguaguagga..gccggaaacgguaac-----GAACCUCGC....AA...............................................GAGGgaGCCGAGUACAGGUGCUGCAUGGCUGUCGUCAGCUCGUGUCGUGAGAUGUC
+#=GR Gem_JW9    PP **************965555.............4443.........33455566777777..777777777776654.....334555555....55...............................................555533444467********************************************
+Gem_obs            CCUGGACUUGACAUGUGCGA.............AAGCGCUC-----ggcaguagga..........cccggaaacgg-GAACGGACCCCAGcaauGG...............................................GGGG..ACCGAGCACAGGUGCUGCAUGGCUGUCGUCAGCUCGUGUCGUGAGAUGUC
+#=GR Gem_obs    PP ***************76666.............55444444.....4566777777..........77777777664.3344445777776887655...............................................6666..777788********************************************
+#=GC SS_cons       {{{{{{{,,,,,((((((((.............,,<<<<<<<____~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>>>>>>>,<<<<__....__~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>>>>..)))))-))),[[-[[[[--[[[[[[[[[,,,((((((<<<____>>>,,<
+#=GC RF            CCcgggcUUGAcgugccggg.............aaccccccgGAaA~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~cgggggguccccuu....aa~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~gggg..cccggacacAGGUGcugCAuGgcuGuCGUCAGCuCGuguCGUGAGauGUc
+
+E_coli_K12         GGGUUAAGUCCCGCAACGAGCGCAACCCUUAUCCUUUGUUGCCAGCGG-UCCGGCCGGGAACUCAAAGGAGACUGCCAGUGAUAAACUGGAGGAAGGUGGGGAUGACGUCAAGUCAUCAUGGCCCUUACGACCAGGGCUACACACGUGCUACAAUGGCGCAUACAAAGAGAAGCGACCUCGCGAGAGCAAGCGGACCUCA
+#=GR E_coli_K12 PP ************************************************.88899**************************************************************************************************************************************************
+Gem_CJuql4         GGGUUAAGUCCCAUAACGAGCGAAACCCUUACCCUUAGUUGCAACC---GCAA---GGGCACUCUAGGGGGACUGCCGGUGUCAAACCGGAGGAAGGUGGGGAUGACGUCAAGUCCUCAUGGCCUUUAUGUCCAGGGCUGCACACGUGCUACAAUGGCGUGAACAAAGUGACGCGACCCCGCGAGGGGGAGCAAAUCACA
+#=GR Gem_CJuql4 PP ******************************************9885...3343...589*********************************************************************************************************************************************
+Gem_JW11           GGGUUAAGUCCCAUAACGAGCGAAACCCUUACCUUUAGUUGCUACC---CACAA--GGGCACUCUAGAGGGACUGCCGGUGUUAAACCGGAGGAAGGCGGGGAUGACGUCAAGUCCUCAUGGCCUUUAUGUCCAGGGCUGCACACGUGCUACAAUGGUGUACACAGAGUGAAGCGACCACGCGAGUGGGAGCCAAUCACA
+#=GR Gem_JW11   PP *******************************************997...44444..79**********************************************************************************************************************************************
+Gem_JW3            GGGUUAAGUCCCAUAACGAGCGAAACCCUUACCUUUAGUUGCCACCC---GCAA-GGAGCACUCUAGAGGGACUGCCGGUGUUAAACCGGAGGAAGGCGGGGAUGACGUCAAGUCCUCAUGGCCUUUAUGUCCAGGGCUGCACACGUGCUACAAUGGUGCACACAAAGUGAAGCGACUGCGCGAGCAGGAGCCAAUCACA
+#=GR Gem_JW3    PP ********************************************998...3344.89***********************************************************************************************************************************************
+Gem_JW9            GGGUUAAGUCCCAUAACGAGCGAAACCCUUACCUUUAGUUGCCACCC---GCAA-GGAGCACUCUAGAGGGACUGCCGGUGUUAAACCGGAGGAAGGCGGGGAUGACGUCAAGUCCUCAUGGCCUUUAUGUCCAGGGCUGCACACGUGCUACAAUGGUGCACACAAAGUGAAGCGACUGCGCGAGCAGGAGCCAAUCACA
+#=GR Gem_JW9    PP ********************************************998...3344.89***********************************************************************************************************************************************
+Gem_obs            GGGUUAAGUCCCAUAACGAGCGAAACCCUUACCUUUAGUUGCGACCC---ACAA--GGGCACUCUAGAGGGACUGCCGGUGUCAAACCGGAGGAAGGCGGGGAUGACGUCAAGUCCUCAUGGCCUUUAUGUCCAGGGCUGCACACGUGCUACAAUGGUGUACACAGAGUGAAGCGACUCUGCGAAGAGGAGCCAAUCACA
+#=GR Gem_obs    PP ******************************************99874...4444..5799********************************************************************************************************************************************
+#=GC SS_cons       <<<______>>>>,,)))))),,,,,((((,<<<<<<<---<<--<<<______>>>>>---->>>>>>>,,<<<<<<<<_____>>>>>>>>,,,,,)))),,,,]]]]-]]]---]]]]]]]],,,,}}}}}}},,,}}-}}}}}}}}}},,,<<<<<<<-----<<<--<<---<<<____>>>--->>---->>>-
+#=GC RF            gGGUUAAGUCCcgcAaCGaGCGCAACCCccgccccuagUUgCcAucgguuuauuccggGcACUcuaggggGACcgCCggcGauAAgccGGagGAAGGuggGGAuGACGuCAaguCauCauggCCCUUAugcccgGGGCuaCACaCgugcuaCAAUGgccggcACAaaggGuaGCaAagccGcGAggcggAGCuAAUCcca
+
+E_coli_K12         UAAAGUGCGUCGUAGUCCGGAUUGGAGUCUGCAACUCGACUCCAUGAAGUCGGAAUCGCUAGUAAUCGUGGAUCAGA.AUGCCACGGUGAAUACGUUCCCGGGCCUUGUACACACCGCCCGUCACACCAUGGGAGUGGGUUGCAAAAGAAGUAGGUAGCUUAACCUUCG.GGAGGGCGCUUACCACUUUGUGAUUCAUGA
+#=GR E_coli_K12 PP *****************************************************************************.*******************************************************************************************.******************************
+Gem_CJuql4         AAAAUCACGCCCCAGUUCAGAUCGAAGGCUGCAACUCGCCUUCGUGAAGCCGGAAUCGCUAGUAAUCGCGGGUCAGCaACACCGCGGUGAAUGUGUUCCUGAGCCUUGUACACACCGCCCGUCAAGCCACGAAAGAGAGGGACGUCCGAAGCCGCC-------U-UCACc-------GGCGUCGAAGACGGACUUCUUGA
+#=GR Gem_CJuql4 PP *****************************************************************************999**************************************************************************99.......3.33332.......99*********************
+Gem_JW11           GAAAUUACACCCCAGUUCAGAUCGCAGGCUGCAACUCGCCUGCGUGAAGCCGGAAUCGCUAGUAAUCGCGGGUCAGCaACACCGCGGUGAAUGUGUUCCUGAGCCUUGUACACACCGCCCGUCAAGCCACGAAAGGGAGGGACGGCCGAAGUCCGC---------UCAC.-------GCGGCCGACGCCGGACUUUCUGA
+#=GR Gem_JW11   PP *****************************************************************************999**************************************************************************99.........6788........99*********************
+Gem_JW3            AAAAUUGCACCCCAGUUCAGAUCGUAGGCUGCAACUCGCCUACGUGAAGCCGGAAUCGCUAGUAAUCGCGGGUCAGCaACACCGCGGUGAAUGUGUUCCUGAGCCUUGUACACACCGCCCGUCAAGCCACGAAAGGGAGGGACGGCCGAAGUCCGC-------UUUGCC.-------GCGGCCGACGCCGGACUUUCUGA
+#=GR Gem_JW3    PP *****************************************************************************999***************************************************************************9.......333444........9**********************
+Gem_JW9            AAAAUUGCACCCCAGUUCAGAUCGUAGGCUGCAACUCGCCUACGUGAAGCCGGAAUCGCUAGUAAUCGCGGGUCAGCaACACCGCGGUGAAUGUGUUCCUGAGCCUUGUACACACCGCCCGUCAAGCCACGAAAGGGAGGGACGGCCGAAGUCCGC-------UUUGCC.-------GCGGCCGACGCCGGACUUUCUGA
+#=GR Gem_JW9    PP *****************************************************************************999***************************************************************************9.......333444........9**********************
+Gem_obs            GAAAUUACACCCCAGUUCAGAUCGCAGGCUGCAACUCGCCUGCGUGAAGCCGGAAUCGCUAGUAAUCGCGGGUCAGCaACACCGCGGUGAAUGUGUUCCUGAGCCUUGUACACACCGCCCGUCAAGCCACGAAAGAGAGGGACGUCCGAAGCCACC-------U-UCACc-------GGUGUCGAAGACGGACUUCUUGA
+#=GR Gem_obs    PP *****************************************************************************999**************************************************************************99.......3.33332.......99*********************
+#=GC SS_cons       ---->>>>>>>,,,,,,<---<<<<<<<<________>>>>>>>>--->,,,,,}}}}},,,,,<<<<<<<<_____.__>>>>>>>>,,,,,,}}---}}}}}}}}}}-}},,<-<<-<<---<<<<<<<<--<<<<<<<<<<<<----<<<<<<-<<<<--<<____.>>->>>>>>>>>>--->>>>>>>>>>>>--
+#=GC RF            uAAAgccggcCucAGUUCGGAcuGgaGgCUGcAAcUCGcCucCagGAAGuuGGAauCGCUAGUAaucGcggcUCAGc.AugccgCgguGAAUACGuUCcCGGGcCuuGuACaCACCGcCCGUCAcgcCacggaAgccggccccgcCcGAAGccgccgcgccAAccuuaa.ggaggcgggcggCuAaGgcggggccggcgA
+
+E_coli_K12         CUGGGGUGAAGUCGUAACAAGGUAACCGUAGGGGAACCUGCGGUUGGAUCACCUCCUUA
+#=GR E_coli_K12 PP ***********************************************************
+Gem_CJuql4         UUGGGACUAAGUCGUAACAAGGUAACCGUAGGGGAACCUGCGGUUGGAUCACCUCCUUU
+#=GR Gem_CJuql4 PP ***********************************************************
+Gem_JW11           UUGGGACUAAGUCGUAACAAGGUAACCGUAGGGGAACCUGCGGUUGGAUCACCUCCUUU
+#=GR Gem_JW11   PP ***********************************************************
+Gem_JW3            UUGGGACUAAGUCGUAACAAGGUAACCGUAGGGGAACCUGCGGUUGGAUCACCUCCUUU
+#=GR Gem_JW3    PP ***********************************************************
+Gem_JW9            UUGGGACUAAGUCGUAACAAGGUAACCGUAGGGGAACCUGCGGUUGGAUCACCUCCUUU
+#=GR Gem_JW9    PP ***********************************************************
+Gem_obs            UUGGGACUAAGUCGUAACAAGGUAACCGUAGGGGAACCUGCGGUUGGAUCACCUCCUUU
+#=GR Gem_obs    PP ***********************************************************
+#=GC SS_cons       >>>>>>>>---->>-->>-->,<<<<<<<<<<____>>>>>>>>>>:::::::::::::
+#=GC RF            ccggGgcgAAGUCGUAaCAAGGuagCcguaccGGAAggugcgGcugGAUcAccUcCUUu
+//
